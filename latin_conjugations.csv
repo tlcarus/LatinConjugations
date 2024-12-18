@@ -1,0 +1,826 @@
+#separator:Pipe          
+#notetype:Latin Conjugation
+#deck column:7
+#columns:Verb|Conjugated Verb|Conjugation Meaning|Latin Sentence|English Sentence|Morphology|Deck
+sum|sum|I am|<v>sum</v> fortis.|I am brave.|1P sg. pres. act. ind.|Conjugation::sum
+sum|es|you are|<v>es</v> sapiens.|You are wise.|2P sg. pres. act. ind.|Conjugation::sum
+sum|est|he/she/it is|puer <v>est</v> laetus.|The boy is happy.|3P sg. pres. act. ind.|Conjugation::sum
+sum|sumus|we are|<v>sumus</v> parati.|We are ready.|1P pl. pres. act. ind.|Conjugation::sum
+sum|estis|you all are|<v>estis</v> fortes.|You all are brave.|2P pl. pres. act. ind.|Conjugation::sum
+sum|sunt|they are|puellae <v>sunt</v> laetae.|The girls are happy.|3P pl. pres. act. ind.|Conjugation::sum
+sum|eram|I was|<v>eram</v> iuvenis.|I was young.|1P sg. impf. act. ind.|Conjugation::sum
+sum|eras|you were|<v>eras</v> dux.|You were a leader.|2P sg. impf. act. ind.|Conjugation::sum
+sum|erat|he/she/it was|tempus <v>erat</v> bonum.|The time was good.|3P sg. impf. act. ind.|Conjugation::sum
+sum|erāmus|we were|<v>erāmus</v> amīcī.|We were friends.|1P pl. impf. act. ind.|Conjugation::sum
+sum|erātis|you all were|<v>erātis</v> doctī.|You all were learned.|2P pl. impf. act. ind.|Conjugation::sum
+sum|erant|they were|viae <v>erant</v> longae.|The roads were long.|3P pl. impf. act. ind.|Conjugation::sum
+sum|erō|I will be|<v>erō</v> consul.|I will be consul.|1P sg. fut. act. ind.|Conjugation::sum
+sum|eris|you will be|<v>eris</v> victor.|You will be the victor.|2P sg. fut. act. ind.|Conjugation::sum
+sum|erit|he/she/it will be|dies <v>erit</v> clara.|The day will be bright.|3P sg. fut. act. ind.|Conjugation::sum
+sum|erimus|we will be|<v>erimus</v> fortēs.|We will be brave.|1P pl. fut. act. ind.|Conjugation::sum
+sum|eritis|you all will be|<v>eritis</v> magistrī.|You all will be teachers.|2P pl. fut. act. ind.|Conjugation::sum
+sum|erunt|they will be|stellae <v>erunt</v> clarae.|The stars will be bright.|3P pl. fut. act. ind.|Conjugation::sum
+sum|fuī|I was/have been|<v>fuī</v> felix.|I was happy.|1P sg. perf. act. ind.|Conjugation::sum
+sum|fuistī|you were/have been|<v>fuistī</v> bonus.|You were good.|2P sg. perf. act. ind.|Conjugation::sum
+sum|fuit|he/she/it was/has been|rex <v>fuit</v> potens.|The king was powerful.|3P sg. perf. act. ind.|Conjugation::sum
+sum|fuimus|we were/have been|<v>fuimus</v> Trōes.|We were Trojans.|1P pl. perf. act. ind.|Conjugation::sum
+sum|fuistis|you all were/have been|<v>fuistis</v> fidēlēs.|You all were faithful.|2P pl. perf. act. ind.|Conjugation::sum
+sum|fuērunt|they were/have been|tempora <v>fuērunt</v> dura.|The times were hard.|3P pl. perf. act. ind.|Conjugation::sum
+sum|fueram|I had been|<v>fueram</v> pauper.|I had been poor.|1P sg. plup. act. ind.|Conjugation::sum
+sum|fuerās|you had been|<v>fuerās</v> absēns.|You had been absent.|2P sg. plup. act. ind.|Conjugation::sum
+sum|fuerat|he/she/it had been|mare <v>fuerat</v> tranquillum.|The sea had been calm.|3P sg. plup. act. ind.|Conjugation::sum
+sum|fuerāmus|we had been|<v>fuerāmus</v> cīvēs.|We had been citizens.|1P pl. plup. act. ind.|Conjugation::sum
+sum|fuerātis|you all had been|<v>fuerātis</v> parātī.|You all had been prepared.|2P pl. plup. act. ind.|Conjugation::sum
+sum|fuerant|they had been|portae <v>fuerant</v> clausae.|The gates had been closed.|3P pl. plup. act. ind.|Conjugation::sum
+sum|fuerō|I will have been|<v>fuerō</v> contentus.|I will have been satisfied.|1P sg. futperf. act. ind.|Conjugation::sum
+sum|fueris|you will have been|<v>fueris</v> fēlīx.|You will have been happy.|2P sg. futperf. act. ind.|Conjugation::sum
+sum|fuerit|he/she/it will have been|opus <v>fuerit</v> perfectum.|The work will have been completed.|3P sg. futperf. act. ind.|Conjugation::sum
+sum|fuerimus|we will have been|<v>fuerimus</v> victōrēs.|We will have been victors.|1P pl. futperf. act. ind.|Conjugation::sum
+sum|fueritis|you all will have been|<v>fueritis</v> laudātī.|You all will have been praised.|2P pl. futperf. act. ind.|Conjugation::sum
+sum|fuerint|they will have been|agrī <v>fuerint</v> cultī.|The fields will have been cultivated.|3P pl. futperf. act. ind.|Conjugation::sum
+sum|sim|may I be|utinam <v>sim</v> fortis.|May I be brave.|1P sg. pres. act. subj.|Conjugation::sum
+sum|sīs|may you be|utinam <v>sīs</v> fēlīx.|May you be happy.|2P sg. pres. act. subj.|Conjugation::sum
+sum|sit|may he/she/it be|pāx <v>sit</v> vōbīscum.|May peace be with you.|3P sg. pres. act. subj.|Conjugation::sum
+sum|sīmus|may we be|<v>sīmus</v> fortēs.|May we be brave.|1P pl. pres. act. subj.|Conjugation::sum
+sum|sītis|may you all be|<v>sītis</v> parātī.|May you all be prepared.|2P pl. pres. act. subj.|Conjugation::sum
+sum|sint|may they be|omnēs <v>sint</v> laetī.|May all be happy.|3P pl. pres. act. subj.|Conjugation::sum
+sum|essem|I would be|<v>essem</v> melior.|I would be better.|1P sg. impf. act. subj.|Conjugation::sum
+sum|essēs|you would be|<v>essēs</v> dīgnus.|You would be worthy.|2P sg. impf. act. subj.|Conjugation::sum
+sum|esset|he/she/it would be|vita <v>esset</v> brevis.|Life would be short.|3P sg. impf. act. subj.|Conjugation::sum
+sum|essēmus|we would be|<v>essēmus</v> līberī.|We would be free.|1P pl. impf. act. subj.|Conjugation::sum
+sum|essētis|you all would be|<v>essētis</v> sapientēs.|You all would be wise.|2P pl. impf. act. subj.|Conjugation::sum
+sum|essent|they would be|omnēs <v>essent</v> aequālēs.|All would be equal.|3P pl. impf. act. subj.|Conjugation::sum
+sum|fuerim|I may have been|<v>fuerim</v> stultus.|I may have been foolish.|1P sg. perf. act. subj.|Conjugation::sum
+sum|fuerīs|you may have been|<v>fuerīs</v> prudens.|You may have been prudent.|2P sg. perf. act. subj.|Conjugation::sum
+sum|fuerit|he/she/it may have been|causa <v>fuerit</v> iusta.|The cause may have been just.|3P sg. perf. act. subj.|Conjugation::sum
+sum|fuerīmus|we may have been|<v>fuerīmus</v> audācēs.|We may have been bold.|1P pl. perf. act. subj.|Conjugation::sum
+sum|fuerītis|you all may have been|<v>fuerītis</v> cautī.|You all may have been cautious.|2P pl. perf. act. subj.|Conjugation::sum
+sum|fuerint|they may have been|verba <v>fuerint</v> vera.|The words may have been true.|3P pl. perf. act. subj.|Conjugation::sum
+sum|fuissem|I would have been|<v>fuissem</v> beātus.|I would have been blessed.|1P sg. plup. act. subj.|Conjugation::sum
+sum|fuissēs|you would have been|<v>fuissēs</v> victor.|You would have been the victor.|2P sg. plup. act. subj.|Conjugation::sum
+sum|fuisset|he/she/it would have been|bellum <v>fuisset</v> longum.|The war would have been long.|3P sg. plup. act. subj.|Conjugation::sum
+sum|fuissēmus|we would have been|<v>fuissēmus</v> parātī.|We would have been prepared.|1P pl. plup. act. subj.|Conjugation::sum
+sum|fuissētis|you all would have been|<v>fuissētis</v> salvī.|You all would have been safe.|2P pl. plup. act. subj.|Conjugation::sum
+sum|fuissent|they would have been|rēs <v>fuissent</v> meliōrēs.|Things would have been better.|3P pl. plup. act. subj.|Conjugation::sum
+sum|es|be!|<v>es</v> fortis!|Be brave!|2P sg. pres. act. imp.|Conjugation::sum
+sum|este|be! (plural)|<v>este</v> parātī!|Be prepared!|2P pl. pres. act. imp.|Conjugation::sum
+sum|estō|you shall be|<v>estō</v> bonus.|You shall be good.|2P sg. fut. act. imp.|Conjugation::sum
+sum|estō|he/she/it shall be|<v>estō</v> fēlīx.|Let him/her/it be happy.|3P sg. fut. act. imp.|Conjugation::sum
+sum|estōte|you all shall be|<v>estōte</v> fortēs.|You all shall be brave.|2P pl. fut. act. imp.|Conjugation::sum
+sum|suntō|they shall be|<v>suntō</v> parātī.|Let them be prepared.|3P pl. fut. act. imp.|Conjugation::sum
+sum|esse|to be|bonum <v>esse</v> oportet.|It is necessary to be good.|__ __ pres. act. inf.|Conjugation::sum
+sum|fuisse|to have been|dīcit sē <v>fuisse</v> consulem.|He says that he had been consul.|__ __ perf. act. inf.|Conjugation::sum
+sum|futūrus esse|to be about to be|spērat sē <v>futūrum esse</v> victōrem.|He hopes that he will be the victor.|__ __ fut. act. inf.|Conjugation::sum
+sum|futūrus|about to be|<v>futūrus</v> rēx parātur.|The future king is prepared.|__ __ __ act. part.|Conjugation::sum
+
+eō|eō|I go|<v>eō</v> ad forum|I go to the forum|1P sg. pres. act. ind.|Conjugation::eō
+eō|īs|you go|<v>īs</v> ad templum|you go to the temple|2P sg. pres. act. ind.|Conjugation::eō
+eō|it|he/she/it goes|puer <v>it</v> ad scholam|the boy goes to school|3P sg. pres. act. ind.|Conjugation::eō
+eō|īmus|we go|<v>īmus</v> per viam|we go along the road|1P pl. pres. act. ind.|Conjugation::eō
+eō|ītis|you all go|<v>ītis</v> ad theatrum|you all go to the theater|2P pl. pres. act. ind.|Conjugation::eō
+eō|eunt|they go|servī <v>eunt</v> domum|the slaves go home|3P pl. pres. act. ind.|Conjugation::eō
+eō|ībam|I was going|<v>ībam</v> ad villam|I was going to the villa|1P sg. impf. act. ind.|Conjugation::eō
+eō|ībās|you were going|<v>ībās</v> per silvam|you were going through the forest|2P sg. impf. act. ind.|Conjugation::eō
+eō|ībat|he/she/it was going|puer <v>ībat</v> ad ludum|the boy was going to school|3P sg. impf. act. ind.|Conjugation::eō
+eō|ībāmus|we were going|<v>ībāmus</v> Rōmam|we were going to Rome|1P pl. impf. act. ind.|Conjugation::eō
+eō|ībātis|you all were going|<v>ībātis</v> ad forum|you all were going to the forum|2P pl. impf. act. ind.|Conjugation::eō
+eō|ībant|they were going|mīlitēs <v>ībant</v> in bellum|the soldiers were going to war|3P pl. impf. act. ind.|Conjugation::eō
+eō|ībō|I will go|crās <v>ībō</v> ad templum|tomorrow I will go to the temple|1P sg. fut. act. ind.|Conjugation::eō
+eō|ībis|you will go|<v>ībis</v> ad theātrum|you will go to the theater|2P sg. fut. act. ind.|Conjugation::eō
+eō|ībit|he/she/it will go|nauta <v>ībit</v> ad mare|the sailor will go to the sea|3P sg. fut. act. ind.|Conjugation::eō
+eō|ībimus|we will go|<v>ībimus</v> in forum|we will go into the forum|1P pl. fut. act. ind.|Conjugation::eō
+eō|ībitis|you all will go|<v>ībitis</v> ad cēnam|you all will go to dinner|2P pl. fut. act. ind.|Conjugation::eō
+eō|ībunt|they will go|servī <v>ībunt</v> in agrōs|the slaves will go to the fields|3P pl. fut. act. ind.|Conjugation::eō
+eō|īvī|I went|herī <v>īvī</v> ad forum|yesterday I went to the forum|1P sg. perf. act. ind.|Conjugation::eō
+eō|īvistī|you went|<v>īvistī</v> ad templum|you went to the temple|2P sg. perf. act. ind.|Conjugation::eō
+eō|īvit|he/she/it went|puer <v>īvit</v> domum|the boy went home|3P sg. perf. act. ind.|Conjugation::eō
+eō|īvimus|we went|<v>īvimus</v> per urbem|we went through the city|1P pl. perf. act. ind.|Conjugation::eō
+eō|īvistis|you all went|<v>īvistis</v> ad ludōs|you all went to the games|2P pl. perf. act. ind.|Conjugation::eō
+eō|īvērunt|they went|mīlitēs <v>īvērunt</v> in castra|the soldiers went to camp|3P pl. perf. act. ind.|Conjugation::eō
+eō|īveram|I had gone|iam <v>īveram</v> domum|I had already gone home|1P sg. plup. act. ind.|Conjugation::eō
+eō|īverās|you had gone|<v>īverās</v> ad forum|you had gone to the forum|2P sg. plup. act. ind.|Conjugation::eō
+eō|īverat|he/she/it had gone|puer <v>īverat</v> ad scholam|the boy had gone to school|3P sg. plup. act. ind.|Conjugation::eō
+eō|īverāmus|we had gone|<v>īverāmus</v> Rōmam|we had gone to Rome|1P pl. plup. act. ind.|Conjugation::eō
+eō|īverātis|you all had gone|<v>īverātis</v> ad templum|you all had gone to the temple|2P pl. plup. act. ind.|Conjugation::eō
+eō|īverant|they had gone|servī <v>īverant</v> in agrōs|the slaves had gone to the fields|3P pl. plup. act. ind.|Conjugation::eō
+eō|īverō|I will have gone|crās <v>īverō</v> domum|tomorrow I will have gone home|1P sg. futperf. act. ind.|Conjugation::eō
+eō|īveris|you will have gone|<v>īveris</v> ad forum|you will have gone to the forum|2P sg. futperf. act. ind.|Conjugation::eō
+eō|īverit|he/she/it will have gone|puer <v>īverit</v> ad ludum|the boy will have gone to school|3P sg. futperf. act. ind.|Conjugation::eō
+eō|īverimus|we will have gone|<v>īverimus</v> Rōmam|we will have gone to Rome|1P pl. futperf. act. ind.|Conjugation::eō
+eō|īveritis|you all will have gone|<v>īveritis</v> ad templum|you all will have gone to the temple|2P pl. futperf. act. ind.|Conjugation::eō
+eō|īverint|they will have gone|mīlitēs <v>īverint</v> in bellum|the soldiers will have gone to war|3P pl. futperf. act. ind.|Conjugation::eō
+eō|eam|I may go|utinam <v>eam</v> domum|if only I may go home|1P sg. pres. act. subj.|Conjugation::eō
+eō|eās|you may go|utinam <v>eās</v> mēcum|if only you may go with me|2P sg. pres. act. subj.|Conjugation::eō
+eō|eat|he/she/it may go|utinam puer <v>eat</v> ad scholam|if only the boy may go to school|3P sg. pres. act. subj.|Conjugation::eō
+eō|eāmus|we may go|utinam <v>eāmus</v> simul|if only we may go together|1P pl. pres. act. subj.|Conjugation::eō
+eō|eātis|you all may go|utinam <v>eātis</v> ad forum|if only you all may go to the forum|2P pl. pres. act. subj.|Conjugation::eō
+eō|eant|they may go|utinam servī <v>eant</v> domum|if only the slaves may go home|3P pl. pres. act. subj.|Conjugation::eō
+eō|īrem|I might go|sī <v>īrem</v> domum|if I might go home|1P sg. impf. act. subj.|Conjugation::eō
+eō|īrēs|you might go|sī <v>īrēs</v> mēcum|if you might go with me|2P sg. impf. act. subj.|Conjugation::eō
+eō|īret|he/she/it might go|sī puer <v>īret</v> ad scholam|if the boy might go to school|3P sg. impf. act. subj.|Conjugation::eō
+eō|īrēmus|we might go|sī <v>īrēmus</v> simul|if we might go together|1P pl. impf. act. subj.|Conjugation::eō
+eō|īrētis|you all might go|sī <v>īrētis</v> ad forum|if you all might go to the forum|2P pl. impf. act. subj.|Conjugation::eō
+eō|īrent|they might go|sī servī <v>īrent</v> domum|if the slaves might go home|3P pl. impf. act. subj.|Conjugation::eō
+eō|īverim|I may have gone|forsitan <v>īverim</v> domum|perhaps I may have gone home|1P sg. perf. act. subj.|Conjugation::eō
+eō|īverīs|you may have gone|forsitan <v>īverīs</v> ad forum|perhaps you may have gone to the forum|2P sg. perf. act. subj.|Conjugation::eō
+eō|īverit|he/she/it may have gone|forsitan puer <v>īverit</v> ad scholam|perhaps the boy may have gone to school|3P sg. perf. act. subj.|Conjugation::eō
+eō|īverīmus|we may have gone|forsitan <v>īverīmus</v> Rōmam|perhaps we may have gone to Rome|1P pl. perf. act. subj.|Conjugation::eō
+eō|īverītis|you all may have gone|forsitan <v>īverītis</v> ad templum|perhaps you all may have gone to the temple|2P pl. perf. act. subj.|Conjugation::eō
+eō|īverint|they may have gone|forsitan servī <v>īverint</v> in agrōs|perhaps the slaves may have gone to the fields|3P pl. perf. act. subj.|Conjugation::eō
+eō|īvissem|I would have gone|sī potuissem, <v>īvissem</v> domum|if I had been able, I would have gone home|1P sg. plup. act. subj.|Conjugation::eō
+eō|īvissēs|you would have gone|sī potuissēs, <v>īvissēs</v> mēcum|if you had been able, you would have gone with me|2P sg. plup. act. subj.|Conjugation::eō
+eō|īvisset|he/she/it would have gone|sī potuisset, puer <v>īvisset</v> ad scholam|if he had been able, the boy would have gone to school|3P sg. plup. act. subj.|Conjugation::eō
+eō|īvissēmus|we would have gone|sī potuissēmus, <v>īvissēmus</v> Rōmam|if we had been able, we would have gone to Rome|1P pl. plup. act. subj.|Conjugation::eō
+eō|īvissētis|you all would have gone|sī potuissētis, <v>īvissētis</v> ad templum|if you had been able, you all would have gone to the temple|2P pl. plup. act. subj.|Conjugation::eō
+eō|īvissent|they would have gone|sī potuissent, servī <v>īvissent</v> in agrōs|if they had been able, the slaves would have gone to the fields|3P pl. plup. act. subj.|Conjugation::eō
+eō|ī|go!|<v>ī</v> domum!|go home!|2P sg. pres. act. imp.|Conjugation::eō
+eō|īte|go! (plural)|<v>īte</v> ad forum!|go to the forum! (plural)|2P pl. pres. act. imp.|Conjugation::eō
+eō|ītō|you shall go|<v>ītō</v> ad templum|you shall go to the temple|2P sg. fut. act. imp.|Conjugation::eō
+eō|ītō|he/she/it shall go|puer <v>ītō</v> ad scholam|the boy shall go to school|3P sg. fut. act. imp.|Conjugation::eō
+eō|ītōte|you all shall go|<v>ītōte</v> ad forum|you all shall go to the forum|2P pl. fut. act. imp.|Conjugation::eō
+eō|euntō|they shall go|servī <v>euntō</v> domum|the slaves shall go home|3P pl. fut. act. imp.|Conjugation::eō
+eō|īre|to go|volō <v>īre</v> domum|I want to go home|__ __ pres. act. inf.|Conjugation::eō
+eō|īvisse|to have gone|dīcit sē <v>īvisse</v> Rōmam|he says that he has gone to Rome|__ __ perf. act. inf.|Conjugation::eō
+eō|itūrus esse|to be about to go|spērō mē <v>itūrum esse</v> crās|I hope to be about to go tomorrow|__ __ fut. act. inf.|Conjugation::eō
+eō|iēns|going|puer <v>iēns</v> ad scholam|the boy going to school|__ __ pres. act. part.|Conjugation::eō
+eō|itūrus|about to go|<v>itūrus</v> ad forum sum|I am about to go to the forum|__ __ fut. act. part.|Conjugation::eō
+eō|eundī|of going|tempus <v>eundī</v> est|it is time for going|__ __ __ __ gerund.|Conjugation::eō
+eō|itum|to go (supine)|facile <v>itū</v>|easy to go|__ __ __ __ supine.|Conjugation::eō
+
+amō|amō|I love|<v>amō</v> puellam.|I love the girl.|1P sg. pres. act. ind.|Conjugation::amō
+amō|amās|you love|<v>amās</v> patriam.|You love the homeland.|2P sg. pres. act. ind.|Conjugation::amō
+amō|amat|he/she/it loves|puer <v>amat</v> canem.|The boy loves the dog.|3P sg. pres. act. ind.|Conjugation::amō
+amō|amāmus|we love|<v>amāmus</v> Rōmam.|We love Rome.|1P pl. pres. act. ind.|Conjugation::amō
+amō|amātis|you all love|<v>amātis</v> deōs.|You all love the gods.|2P pl. pres. act. ind.|Conjugation::amō
+amō|amant|they love|virī <v>amant</v> lībertātem.|The men love freedom.|3P pl. pres. act. ind.|Conjugation::amō
+amō|amor|I am loved|<v>amor</v> ab omnibus.|I am loved by everyone.|1P sg. pres. pass. ind.|Conjugation::amō
+amō|amāris|you are loved|<v>amāris</v> ā familiā.|You are loved by the family.|2P sg. pres. pass. ind.|Conjugation::amō
+amō|amātur|he/she/it is loved|puer <v>amātur</v> ā mātre.|The boy is loved by his mother.|3P sg. pres. pass. ind.|Conjugation::amō
+amō|amāmur|we are loved|<v>amāmur</v> ā cīvibus.|We are loved by the citizens.|1P pl. pres. pass. ind.|Conjugation::amō
+amō|amāminī|you all are loved|<v>amāminī</v> ā magistrō.|You all are loved by the teacher.|2P pl. pres. pass. ind.|Conjugation::amō
+amō|amantur|they are loved|mīlitēs <v>amantur</v> ā populo.|The soldiers are loved by the people.|3P pl. pres. pass. ind.|Conjugation::amō
+amō|amābam|I was loving|<v>amābam</v> vītam.|I was loving life.|1P sg. impf. act. ind.|Conjugation::amō
+amō|amābās|you were loving|<v>amābās</v> lūdum.|You were loving the game.|2P sg. impf. act. ind.|Conjugation::amō
+amō|amābat|he/she/it was loving|poēta <v>amābat</v> carmina.|The poet was loving the songs.|3P sg. impf. act. ind.|Conjugation::amō
+amō|amābāmus|we were loving|<v>amābāmus</v> pācem.|We were loving peace.|1P pl. impf. act. ind.|Conjugation::amō
+amō|amābātis|you all were loving|<v>amābātis</v> sapientiam.|You all were loving wisdom.|2P pl. impf. act. ind.|Conjugation::amō
+amō|amābant|they were loving|puellae <v>amābant</v> flōrēs.|The girls were loving the flowers.|3P pl. impf. act. ind.|Conjugation::amō
+amō|amābar|I was being loved|<v>amābar</v> ā sociīs.|I was being loved by allies.|1P sg. impf. pass. ind.|Conjugation::amō
+amō|amābāris|you were being loved|<v>amābāris</v> ā parentibus.|You were being loved by parents.|2P sg. impf. pass. ind.|Conjugation::amō
+amō|amābātur|he/she/it was being loved|rēx <v>amābātur</v> ā plēbe.|The king was being loved by the common people.|3P sg. impf. pass. ind.|Conjugation::amō
+amō|amābāmur|we were being loved|<v>amābāmur</v> ā deīs.|We were being loved by the gods.|1P pl. impf. pass. ind.|Conjugation::amō
+amō|amābāminī|you all were being loved|<v>amābāminī</v> ā senātū.|You all were being loved by the senate.|2P pl. impf. pass. ind.|Conjugation::amō
+amō|amābantur|they were being loved|servī <v>amābantur</v> ā dominō.|The slaves were being loved by the master.|3P pl. impf. pass. ind.|Conjugation::amō
+amō|amābō|I will love|<v>amābō</v> tē semper.|I will love you always.|1P sg. fut. act. ind.|Conjugation::amō
+amō|amābis|you will love|<v>amābis</v> patriam tuam.|You will love your country.|2P sg. fut. act. ind.|Conjugation::amō
+amō|amābit|he/she/it will love|puer <v>amābit</v> scholam.|The boy will love school.|3P sg. fut. act. ind.|Conjugation::amō
+amō|amābimus|we will love|<v>amābimus</v> vēritātem.|We will love truth.|1P pl. fut. act. ind.|Conjugation::amō
+amō|amābitis|you all will love|<v>amābitis</v> virtūtem.|You all will love virtue.|2P pl. fut. act. ind.|Conjugation::amō
+amō|amābunt|they will love|cīvēs <v>amābunt</v> pācem.|The citizens will love peace.|3P pl. fut. act. ind.|Conjugation::amō
+amō|amābor|I will be loved|<v>amābor</v> ā posterīs.|I will be loved by posterity.|1P sg. fut. pass. ind.|Conjugation::amō
+amō|amāberis|you will be loved|<v>amāberis</v> ā populō.|You will be loved by the people.|2P sg. fut. pass. ind.|Conjugation::amō
+amō|amābitur|he/she/it will be loved|dux <v>amābitur</v> ā mīlitibus.|The leader will be loved by the soldiers.|3P sg. fut. pass. ind.|Conjugation::amō
+amō|amābimur|we will be loved|<v>amābimur</v> ā sociīs.|We will be loved by allies.|1P pl. fut. pass. ind.|Conjugation::amō
+amō|amābiminī|you all will be loved|<v>amābiminī</v> ā cīvibus.|You all will be loved by the citizens.|2P pl. fut. pass. ind.|Conjugation::amō
+amō|amābuntur|they will be loved|bonī <v>amābuntur</v> ā deīs.|The good will be loved by the gods.|3P pl. fut. pass. ind.|Conjugation::amō
+amō|amāvī|I have loved/loved|<v>amāvī</v> hanc urbem.|I have loved this city.|1P sg. perf. act. ind.|Conjugation::amō
+amō|amāvistī|you have loved/loved|<v>amāvistī</v> vītam.|You have loved life.|2P sg. perf. act. ind.|Conjugation::amō
+amō|amāvit|he/she/it has loved/loved|senex <v>amāvit</v> iuventūtem.|The old man has loved youth.|3P sg. perf. act. ind.|Conjugation::amō
+amō|amāvimus|we have loved/loved|<v>amāvimus</v> patriam.|We have loved the homeland.|1P pl. perf. act. ind.|Conjugation::amō
+amō|amāvistis|you all have loved/loved|<v>amāvistis</v> lībertātem.|You all have loved freedom.|2P pl. perf. act. ind.|Conjugation::amō
+amō|amāvērunt|they have loved/loved|omnēs <v>amāvērunt</v> pācem.|Everyone has loved peace.|3P pl. perf. act. ind.|Conjugation::amō
+amō|amātus sum|I have been loved|<v>amātus sum</v> ā familiā.|I have been loved by the family.|1P sg. perf. pass. ind.|Conjugation::amō
+amō|amātus es|you have been loved|<v>amātus es</v> ā populō.|You have been loved by the people.|2P sg. perf. pass. ind.|Conjugation::amō
+amō|amātus est|he/she/it has been loved|puer <v>amātus est</v> ā parentibus.|The boy has been loved by his parents.|3P sg. perf. pass. ind.|Conjugation::amō
+amō|amātī sumus|we have been loved|<v>amātī sumus</v> ā cīvibus.|We have been loved by the citizens.|1P pl. perf. pass. ind.|Conjugation::amō
+amō|amātī estis|you all have been loved|<v>amātī estis</v> ā deīs.|You all have been loved by the gods.|2P pl. perf. pass. ind.|Conjugation::amō
+amō|amātī sunt|they have been loved|bonī <v>amātī sunt</v> ā sapientibus.|The good have been loved by the wise.|3P pl. perf. pass. ind.|Conjugation::amō
+amō|amāveram|I had loved|<v>amāveram</v> illam urbem.|I had loved that city.|1P sg. plup. act. ind.|Conjugation::amō
+amō|amāverās|you had loved|<v>amāverās</v> patriam.|You had loved the homeland.|2P sg. plup. act. ind.|Conjugation::amō
+amō|amāverat|he/she/it had loved|dux <v>amāverat</v> victōriam.|The leader had loved victory.|3P sg. plup. act. ind.|Conjugation::amō
+amō|amāverāmus|we had loved|<v>amāverāmus</v> pācem.|We had loved peace.|1P pl. plup. act. ind.|Conjugation::amō
+amō|amāverātis|you all had loved|<v>amāverātis</v> lībertātem.|You all had loved freedom.|2P pl. plup. act. ind.|Conjugation::amō
+amō|amāverant|they had loved|cīvēs <v>amāverant</v> lēgēs.|The citizens had loved the laws.|3P pl. plup. act. ind.|Conjugation::amō
+amō|amātus eram|I had been loved|<v>amātus eram</v> ā magistrō.|I had been loved by the teacher.|1P sg. plup. pass. ind.|Conjugation::amō
+amō|amātus erās|you had been loved|<v>amātus erās</v> ā sociīs.|You had been loved by allies.|2P sg. plup. pass. ind.|Conjugation::amō
+amō|amātus erat|he/she/it had been loved|puer <v>amātus erat</v> ā mātre.|The boy had been loved by his mother.|3P sg. plup. pass. ind.|Conjugation::amō
+amō|amātī erāmus|we had been loved|<v>amātī erāmus</v> ā populō.|We had been loved by the people.|1P pl. plup. pass. ind.|Conjugation::amō
+amō|amātī erātis|you all had been loved|<v>amātī erātis</v> ā cīvibus.|You all had been loved by the citizens.|2P pl. plup. pass. ind.|Conjugation::amō
+amō|amātī erant|they had been loved|mīlitēs <v>amātī erant</v> ā ducibus.|The soldiers had been loved by the leaders.|3P pl. plup. pass. ind.|Conjugation::amō
+amō|amāverō|I will have loved|<v>amāverō</v> vītam.|I will have loved life.|1P sg. futperf. act. ind.|Conjugation::amō
+amō|amāveris|you will have loved|<v>amāveris</v> patriam.|You will have loved the homeland.|2P sg. futperf. act. ind.|Conjugation::amō
+amō|amāverit|he/she/it will have loved|puer <v>amāverit</v> lūdum.|The boy will have loved the game.|3P sg. futperf. act. ind.|Conjugation::amō
+amō|amāverimus|we will have loved|<v>amāverimus</v> urbem.|We will have loved the city.|1P pl. futperf. act. ind.|Conjugation::amō
+amō|amāveritis|you all will have loved|<v>amāveritis</v> sapientiam.|You all will have loved wisdom.|2P pl. futperf. act. ind.|Conjugation::amō
+amō|amāverint|they will have loved|cīvēs <v>amāverint</v> pācem.|The citizens will have loved peace.|3P pl. futperf. act. ind.|Conjugation::amō
+amō|amātus erō|I will have been loved|<v>amātus erō</v> ā populō.|I will have been loved by the people.|1P sg. futperf. pass. ind.|Conjugation::amō
+amō|amātus eris|you will have been loved|<v>amātus eris</v> ā familiā.|You will have been loved by the family.|2P sg. futperf. pass. ind.|Conjugation::amō
+amō|amātus erit|he/she/it will have been loved|puer <v>amātus erit</v> ā parentibus.|The boy will have been loved by his parents.|3P sg. futperf. pass. ind.|Conjugation::amō
+amō|amātī erimus|we will have been loved|<v>amātī erimus</v> ā cīvibus.|We will have been loved by the citizens.|1P pl. futperf. pass. ind.|Conjugation::amō
+amō|amātī eritis|you all will have been loved|<v>amātī eritis</v> ā deīs.|You all will have been loved by the gods.|2P pl. futperf. pass. ind.|Conjugation::amō
+amō|amātī erunt|they will have been loved|bonī <v>amātī erunt</v> ā sapientibus.|The good will have been loved by the wise.|3P pl. futperf. pass. ind.|Conjugation::amō
+amō|amem|I may love|utinam tē <v>amem</v>.|Would that I love you.|1P sg. pres. act. subj.|Conjugation::amō
+amō|amēs|you may love|utinam patriam <v>amēs</v>.|Would that you love the homeland.|2P sg. pres. act. subj.|Conjugation::amō
+amō|amet|he/she/it may love|utinam puer scholam <v>amet</v>.|Would that the boy love school.|3P sg. pres. act. subj.|Conjugation::amō
+amō|amēmus|we may love|utinam pācem <v>amēmus</v>.|Would that we love peace.|1P pl. pres. act. subj.|Conjugation::amō
+amō|amētis|you all may love|utinam virtūtem <v>amētis</v>.|Would that you all love virtue.|2P pl. pres. act. subj.|Conjugation::amō
+amō|ament|they may love|utinam cīvēs lēgēs <v>ament</v>.|Would that the citizens love the laws.|3P pl. pres. act. subj.|Conjugation::amō
+amō|amer|I may be loved|utinam ab omnibus <v>amer</v>.|Would that I be loved by all.|1P sg. pres. pass. subj.|Conjugation::amō
+amō|amēris|you may be loved|utinam ā populō <v>amēris</v>.|Would that you be loved by the people.|2P sg. pres. pass. subj.|Conjugation::amō
+amō|amētur|he/she/it may be loved|utinam puer ā parentibus <v>amētur</v>.|Would that the boy be loved by his parents.|3P sg. pres. pass. subj.|Conjugation::amō
+amō|amēmur|we may be loved|utinam ā cīvibus <v>amēmur</v>.|Would that we be loved by the citizens.|1P pl. pres. pass. subj.|Conjugation::amō
+amō|amēminī|you all may be loved|utinam ā deīs <v>amēminī</v>.|Would that you all be loved by the gods.|2P pl. pres. pass. subj.|Conjugation::amō
+amō|amentur|they may be loved|utinam bonī ā sapientibus <v>amentur</v>.|Would that the good be loved by the wise.|3P pl. pres. pass. subj.|Conjugation::amō
+amō|amārem|I would love|<v>amārem</v> sī possem.|I would love if I could.|1P sg. impf. act. subj.|Conjugation::amō
+amō|amārēs|you would love|<v>amārēs</v> sī scīrēs.|You would love if you knew.|2P sg. impf. act. subj.|Conjugation::amō
+amō|amāret|he/she/it would love|puer <v>amāret</v> sī vidēret.|The boy would love if he saw.|3P sg. impf. act. subj.|Conjugation::amō
+amō|amārēmus|we would love|<v>amārēmus</v> sī licēret.|We would love if it were permitted.|1P pl. impf. act. subj.|Conjugation::amō
+amō|amārētis|you all would love|<v>amārētis</v> sī intellegerētis.|You all would love if you understood.|2P pl. impf. act. subj.|Conjugation::amō
+amō|amārent|they would love|cīvēs <v>amārent</v> sī cognōscerent.|The citizens would love if they knew.|3P pl. impf. act. subj.|Conjugation::amō
+amō|amārer|I would be loved|<v>amārer</v> sī bonus essem.|I would be loved if I were good.|1P sg. impf. pass. subj.|Conjugation::amō
+amō|amārēris|you would be loved|<v>amārēris</v> sī manērēs.|You would be loved if you stayed.|2P sg. impf. pass. subj.|Conjugation::amō
+amō|amārētur|he/she/it would be loved|puer <v>amārētur</v> sī studēret.|The boy would be loved if he studied.|3P sg. impf. pass. subj.|Conjugation::amō
+amō|amārēmur|we would be loved|<v>amārēmur</v> sī fortēs essēmus.|We would be loved if we were brave.|1P pl. impf. pass. subj.|Conjugation::amō
+amō|amārēminī|you all would be loved|<v>amārēminī</v> sī labōrārētis.|You all would be loved if you worked.|2P pl. impf. pass. subj.|Conjugation::amō
+amō|amārentur|they would be loved|bonī <v>amārentur</v> sī adessent.|The good would be loved if they were present.|3P pl. impf. pass. subj.|Conjugation::amō
+amō|amā|love!|<v>amā</v> patriam!|Love the homeland!|2P sg. pres. act. imp.|Conjugation::amō
+amō|amāte|love! (plural)|<v>amāte</v> virtūtem!|Love virtue! (plural)|2P pl. pres. act. imp.|Conjugation::amō
+amō|amāre|be loved!|<v>amāre</v> ā populō!|Be loved by the people!|2P sg. pres. pass. imp.|Conjugation::amō
+amō|amāminī|be loved! (plural)|<v>amāminī</v> ā cīvibus!|Be loved by the citizens! (plural)|2P pl. pres. pass. imp.|Conjugation::amō
+amō|amātō|you shall love|<v>amātō</v> patriam.|You shall love the homeland.|2P sg. fut. act. imp.|Conjugation::amō
+amō|amātōte|you all shall love|<v>amātōte</v> virtūtem.|You all shall love virtue.|2P pl. fut. act. imp.|Conjugation::amō
+amō|amātor|you shall be loved|<v>amātor</v> ā populō.|You shall be loved by the people.|2P sg. fut. pass. imp.|Conjugation::amō
+amō|amāre|to love|volō tē <v>amāre</v>.|I want to love you.|__ __ pres. act. inf.|Conjugation::amō
+amō|amārī|to be loved|cupiō <v>amārī</v> ab omnibus.|I desire to be loved by all.|__ __ pres. pass. inf.|Conjugation::amō
+amō|amāvisse|to have loved|dīcit sē patriam <v>amāvisse</v>.|He says that he has loved the homeland.|__ __ perf. act. inf.|Conjugation::amō
+amō|amātum esse|to have been loved|dīcit sē <v>amātum esse</v> ā populō.|He says that he has been loved by the people.|__ __ perf. pass. inf.|Conjugation::amō
+amō|amātūrus esse|to be about to love|spērō mē tē <v>amātūrum esse</v>.|I hope that I am about to love you.|__ __ fut. act. inf.|Conjugation::amō
+amō|amātum īrī|to be about to be loved|putō mē <v>amātum īrī</v> ā cīvibus.|I think that I am about to be loved by the citizens.|__ __ fut. pass. inf.|Conjugation::amō
+amō|amāns|loving|<v>amāns</v> patriam vīvit.|Living loving his country.|__ __ pres. act. part.|Conjugation::amō
+amō|amātūrus|about to love|<v>amātūrus</v> urbem vēnit.|He comes about to love the city.|__ __ fut. act. part.|Conjugation::amō
+amō|amātum|to love (supine)|eō <v>amātum</v> patriam.|I go to love the homeland.|__ __ __ __ supine.|Conjugation::amō
+amō|amandī|of loving|causā <v>amandī</v> vēnit.|He comes for the sake of loving.|__ __ __ __ gerund.|Conjugation::amō
+
+habeō|habeō|I have|<v>habeō</v> librum.|I have a book.|1P sg. pres. act. ind.|Conjugation::habeō
+habeō|habēs|you have|<v>habēs</v> multōs amīcōs.|You have many friends.|2P sg. pres. act. ind.|Conjugation::habeō
+habeō|habet|he/she/it has|<v>habet</v> canem fidēlem.|He has a faithful dog.|3P sg. pres. act. ind.|Conjugation::habeō
+habeō|habēmus|we have|<v>habēmus</v> spem.|We have hope.|1P pl. pres. act. ind.|Conjugation::habeō
+habeō|habētis|you all have|<v>habētis</v> tempus.|You all have time.|2P pl. pres. act. ind.|Conjugation::habeō
+habeō|habent|they have|<v>habent</v> cūram.|They have concern.|3P pl. pres. act. ind.|Conjugation::habeō
+habeō|habēbar|I was being held|<v>habēbar</v> in carcere.|I was being held in prison.|1P sg. pres. pass. ind.|Conjugation::habeō
+habeō|habēris|you are being held|<v>habēris</v> in magnō honōre.|You are being held in great honor.|2P sg. pres. pass. ind.|Conjugation::habeō
+habeō|habētur|he/she/it is being held|<v>habētur</v> sapiēns.|He is considered wise.|3P sg. pres. pass. ind.|Conjugation::habeō
+habeō|habēmur|we are being held|<v>habēmur</v> captīvī.|We are being held captive.|1P pl. pres. pass. ind.|Conjugation::habeō
+habeō|habēminī|you all are being held|<v>habēminī</v> in memoriā.|You all are kept in memory.|2P pl. pres. pass. ind.|Conjugation::habeō
+habeō|habentur|they are being held|<v>habentur</v> dignī.|They are considered worthy.|3P pl. pres. pass. ind.|Conjugation::habeō
+habeō|habēbam|I was having|<v>habēbam</v> pecūniam.|I was having money.|1P sg. impf. act. ind.|Conjugation::habeō
+habeō|habēbās|you were having|<v>habēbās</v> potestātem.|You were having power.|2P sg. impf. act. ind.|Conjugation::habeō
+habeō|habēbat|he/she/it was having|<v>habēbat</v> vim.|He was having strength.|3P sg. impf. act. ind.|Conjugation::habeō
+habeō|habēbāmus|we were having|<v>habēbāmus</v> fidem.|We were having faith.|1P pl. impf. act. ind.|Conjugation::habeō
+habeō|habēbātis|you all were having|<v>habēbātis</v> cōpiam.|You all were having plenty.|2P pl. impf. act. ind.|Conjugation::habeō
+habeō|habēbant|they were having|<v>habēbant</v> spem.|They were having hope.|3P pl. impf. act. ind.|Conjugation::habeō
+habeō|habēbor|I will be held|<v>habēbor</v> in honōre.|I will be held in honor.|1P sg. fut. pass. ind.|Conjugation::habeō
+habeō|habēberis|you will be held|<v>habēberis</v> grātus.|You will be considered welcome.|2P sg. fut. pass. ind.|Conjugation::habeō
+habeō|habēbitur|he/she/it will be held|<v>habēbitur</v> cārus.|He will be held dear.|3P sg. fut. pass. ind.|Conjugation::habeō
+habeō|habēbimur|we will be held|<v>habēbimur</v> fortēs.|We will be considered brave.|1P pl. fut. pass. ind.|Conjugation::habeō
+habeō|habēbiminī|you all will be held|<v>habēbiminī</v> amīcī.|You all will be considered friends.|2P pl. fut. pass. ind.|Conjugation::habeō
+habeō|habēbuntur|they will be held|<v>habēbuntur</v> hostēs.|They will be considered enemies.|3P pl. fut. pass. ind.|Conjugation::habeō
+habeō|habuī|I had|<v>habuī</v> spem.|I had hope.|1P sg. perf. act. ind.|Conjugation::habeō
+habeō|habuistī|you had|<v>habuistī</v> cūram.|You had concern.|2P sg. perf. act. ind.|Conjugation::habeō
+habeō|habuit|he/she/it had|<v>habuit</v> glōriam.|He had glory.|3P sg. perf. act. ind.|Conjugation::habeō
+habeō|habuimus|we had|<v>habuimus</v> fortūnam.|We had fortune.|1P pl. perf. act. ind.|Conjugation::habeō
+habeō|habuistis|you all had|<v>habuistis</v> victōriam.|You all had victory.|2P pl. perf. act. ind.|Conjugation::habeō
+habeō|habuērunt|they had|<v>habuērunt</v> labōrem.|They had work.|3P pl. perf. act. ind.|Conjugation::habeō
+habeō|habitus sum|I was held|<v>habitus sum</v> dignus.|I was considered worthy.|1P sg. perf. pass. ind.|Conjugation::habeō
+habeō|habitus es|you were held|<v>habitus es</v> fortis.|You were considered brave.|2P sg. perf. pass. ind.|Conjugation::habeō
+habeō|habitus est|he/she/it was held|<v>habitus est</v> sapiēns.|He was considered wise.|3P sg. perf. pass. ind.|Conjugation::habeō
+habeō|habitī sumus|we were held|<v>habitī sumus</v> amīcī.|We were considered friends.|1P pl. perf. pass. ind.|Conjugation::habeō
+habeō|habitī estis|you all were held|<v>habitī estis</v> hostēs.|You all were considered enemies.|2P pl. perf. pass. ind.|Conjugation::habeō
+habeō|habitī sunt|they were held|<v>habitī sunt</v> dignī.|They were considered worthy.|3P pl. perf. pass. ind.|Conjugation::habeō
+habeō|habueram|I had had|<v>habueram</v> spem.|I had had hope.|1P sg. plup. act. ind.|Conjugation::habeō
+habeō|habuerās|you had had|<v>habuerās</v> cūram.|You had had concern.|2P sg. plup. act. ind.|Conjugation::habeō
+habeō|habuerat|he/she/it had had|<v>habuerat</v> glōriam.|He had had glory.|3P sg. plup. act. ind.|Conjugation::habeō
+habeō|habuerāmus|we had had|<v>habuerāmus</v> fortūnam.|We had had fortune.|1P pl. plup. act. ind.|Conjugation::habeō
+habeō|habuerātis|you all had had|<v>habuerātis</v> victōriam.|You all had had victory.|2P pl. plup. act. ind.|Conjugation::habeō
+habeō|habuerant|they had had|<v>habuerant</v> labōrem.|They had had work.|3P pl. plup. act. ind.|Conjugation::habeō
+habeō|habitus eram|I had been held|<v>habitus eram</v> dignus.|I had been considered worthy.|1P sg. plup. pass. ind.|Conjugation::habeō
+habeō|habitus erās|you had been held|<v>habitus erās</v> fortis.|You had been considered brave.|2P sg. plup. pass. ind.|Conjugation::habeō
+habeō|habitus erat|he/she/it had been held|<v>habitus erat</v> sapiēns.|He had been considered wise.|3P sg. plup. pass. ind.|Conjugation::habeō
+habeō|habitī erāmus|we had been held|<v>habitī erāmus</v> amīcī.|We had been considered friends.|1P pl. plup. pass. ind.|Conjugation::habeō
+habeō|habitī erātis|you all had been held|<v>habitī erātis</v> hostēs.|You all had been considered enemies.|2P pl. plup. pass. ind.|Conjugation::habeō
+habeō|habitī erant|they had been held|<v>habitī erant</v> dignī.|They had been considered worthy.|3P pl. plup. pass. ind.|Conjugation::habeō
+habeō|habeam|I may have|<v>habeam</v> spem.|May I have hope.|1P sg. pres. act. subj.|Conjugation::habeō
+habeō|habeās|you may have|<v>habeās</v> cūram.|May you have concern.|2P sg. pres. act. subj.|Conjugation::habeō
+habeō|habeat|he/she/it may have|<v>habeat</v> glōriam.|May he have glory.|3P sg. pres. act. subj.|Conjugation::habeō
+habeō|habeāmus|we may have|<v>habeāmus</v> fortūnam.|May we have fortune.|1P pl. pres. act. subj.|Conjugation::habeō
+habeō|habeātis|you all may have|<v>habeātis</v> victōriam.|May you all have victory.|2P pl. pres. act. subj.|Conjugation::habeō
+habeō|habeant|they may have|<v>habeant</v> labōrem.|May they have work.|3P pl. pres. act. subj.|Conjugation::habeō
+habeō|habear|I may be held|<v>habear</v> dignus.|May I be considered worthy.|1P sg. pres. pass. subj.|Conjugation::habeō
+habeō|habeāris|you may be held|<v>habeāris</v> fortis.|May you be considered brave.|2P sg. pres. pass. subj.|Conjugation::habeō
+habeō|habeātur|he/she/it may be held|<v>habeātur</v> sapiēns.|May he be considered wise.|3P sg. pres. pass. subj.|Conjugation::habeō
+habeō|habeāmur|we may be held|<v>habeāmur</v> amīcī.|May we be considered friends.|1P pl. pres. pass. subj.|Conjugation::habeō
+habeō|habeāminī|you all may be held|<v>habeāminī</v> hostēs.|May you all be considered enemies.|2P pl. pres. pass. subj.|Conjugation::habeō
+habeō|habeantur|they may be held|<v>habeantur</v> dignī.|May they be considered worthy.|3P pl. pres. pass. subj.|Conjugation::habeō
+habeō|habērem|I would have|<v>habērem</v> spem.|I would have hope.|1P sg. impf. act. subj.|Conjugation::habeō
+habeō|habērēs|you would have|<v>habērēs</v> cūram.|You would have concern.|2P sg. impf. act. subj.|Conjugation::habeō
+habeō|habēret|he/she/it would have|<v>habēret</v> glōriam.|He would have glory.|3P sg. impf. act. subj.|Conjugation::habeō
+habeō|habērēmus|we would have|<v>habērēmus</v> fortūnam.|We would have fortune.|1P pl. impf. act. subj.|Conjugation::habeō
+habeō|habērētis|you all would have|<v>habērētis</v> victōriam.|You all would have victory.|2P pl. impf. act. subj.|Conjugation::habeō
+habeō|habērent|they would have|<v>habērent</v> labōrem.|They would have work.|3P pl. impf. act. subj.|Conjugation::habeō
+habeō|habē|have!|<v>habē</v> cūram!|Have concern!|2P sg. pres. act. imp.|Conjugation::habeō
+habeō|habēte|have! (plural)|<v>habēte</v> spem!|Have hope! (plural)|2P pl. pres. act. imp.|Conjugation::habeō
+habeō|habētō|you shall have|<v>habētō</v> fidem.|You shall have faith.|2P sg. fut. act. imp.|Conjugation::habeō
+habeō|habētōte|you all shall have|<v>habētōte</v> patientiam.|You all shall have patience.|2P pl. fut. act. imp.|Conjugation::habeō
+habeō|habēre|to have|Bonum est <v>habēre</v> amīcōs.|It is good to have friends.|__ __ pres. act. inf.|Conjugation::habeō
+habeō|habuisse|to have had|Dīcit sē spem <v>habuisse</v>.|He says that he had hope.|__ __ perf. act. inf.|Conjugation::habeō
+habeō|habitūrus esse|to be about to have|Vidētur <v>habitūrus esse</v> fortūnam.|He seems about to have fortune.|__ __ fut. act. inf.|Conjugation::habeō
+habeō|habēns|having|<v>habēns</v> spem vīvit.|Having hope, he lives.|__ __ pres. act. part.|Conjugation::habeō
+habeō|habitūrus|about to have|<v>habitūrus</v> glōriam vēnit.|About to have glory, he came.|__ __ fut. act. part.|Conjugation::habeō
+habeō|habendī|of having|Ars <v>habendī</v> amīcōs.|The art of having friends.|__ __ __ __ gerund.|Conjugation::habeō
+habeō|habitum|to hold|Vēnit <v>habitum</v> conventum.|He came to hold a meeting.|__ __ __ __ supine.|Conjugation::habeō
+
+agō|agō|I drive|<v>agō</v> equōs per campum|I drive horses through the field|1P sg. pres. act. ind.|Conjugation::agō
+agō|agis|you drive|<v>agis</v> pecus ad aquam|you drive the herd to water|2P sg. pres. act. ind.|Conjugation::agō
+agō|agit|he/she/it drives|pāstor <v>agit</v> ovēs|the shepherd drives the sheep|3P sg. pres. act. ind.|Conjugation::agō
+agō|agimus|we drive|nōs <v>agimus</v> currūs|we drive the chariots|1P pl. pres. act. ind.|Conjugation::agō
+agō|agitis|you all drive|vōs <v>agitis</v> capellās|you all drive the goats|2P pl. pres. act. ind.|Conjugation::agō
+agō|agunt|they drive|agricolae bovēs <v>agunt</v>|the farmers drive the cattle|3P pl. pres. act. ind.|Conjugation::agō
+agō|agor|I am driven|<v>agor</v> in exsilium|I am driven into exile|1P sg. pres. pass. ind.|Conjugation::agō
+agō|ageris|you are driven|<v>ageris</v> ventō|you are driven by the wind|2P sg. pres. pass. ind.|Conjugation::agō
+agō|agitur|he/she/it is driven|navis <v>agitur</v> fluctibus|the ship is driven by the waves|3P sg. pres. pass. ind.|Conjugation::agō
+agō|agimur|we are driven|<v>agimur</v> fatō|we are driven by fate|1P pl. pres. pass. ind.|Conjugation::agō
+agō|agiminī|you all are driven|<v>agiminī</v> timōre|you all are driven by fear|2P pl. pres. pass. ind.|Conjugation::agō
+agō|aguntur|they are driven|equī <v>aguntur</v> per viam|the horses are driven along the road|3P pl. pres. pass. ind.|Conjugation::agō
+agō|agēbam|I was driving|<v>agēbam</v> currūs celeriter|I was driving the chariots swiftly|1P sg. impf. act. ind.|Conjugation::agō
+agō|agēbās|you were driving|tū <v>agēbās</v> gregem|you were driving the flock|2P sg. impf. act. ind.|Conjugation::agō
+agō|agēbat|he/she/it was driving|dux exercitum <v>agēbat</v>|the leader was driving the army|3P sg. impf. act. ind.|Conjugation::agō
+agō|agēbāmus|we were driving|<v>agēbāmus</v> pecora|we were driving the cattle|1P pl. impf. act. ind.|Conjugation::agō
+agō|agēbātis|you all were driving|<v>agēbātis</v> equōs|you all were driving the horses|2P pl. impf. act. ind.|Conjugation::agō
+agō|agēbant|they were driving|servī pecūs <v>agēbant</v>|the slaves were driving the livestock|3P pl. impf. act. ind.|Conjugation::agō
+agō|agēbar|I was being driven|<v>agēbar</v> in fugam|I was being driven to flight|1P sg. impf. pass. ind.|Conjugation::agō
+agō|agēbāris|you were being driven|<v>agēbāris</v> procellā|you were being driven by the storm|2P sg. impf. pass. ind.|Conjugation::agō
+agō|agēbātur|he/she/it was being driven|ratis <v>agēbātur</v> ventīs|the raft was being driven by the winds|3P sg. impf. pass. ind.|Conjugation::agō
+agō|agēbāmur|we were being driven|<v>agēbāmur</v> in exsilium|we were being driven into exile|1P pl. impf. pass. ind.|Conjugation::agō
+agō|agēbāminī|you all were being driven|<v>agēbāminī</v> mētū|you all were being driven by fear|2P pl. impf. pass. ind.|Conjugation::agō
+agō|agēbantur|they were being driven|hostēs <v>agēbantur</v> in fugam|the enemies were being driven to flight|3P pl. impf. pass. ind.|Conjugation::agō
+agō|agam|I will drive|crās equōs <v>agam</v>|tomorrow I will drive the horses|1P sg. fut. act. ind.|Conjugation::agō
+agō|agēs|you will drive|tū gregem <v>agēs</v>|you will drive the flock|2P sg. fut. act. ind.|Conjugation::agō
+agō|aget|he/she/it will drive|pāstor ovēs <v>aget</v>|the shepherd will drive the sheep|3P sg. fut. act. ind.|Conjugation::agō
+agō|agēmus|we will drive|nōs currūs <v>agēmus</v>|we will drive the chariots|1P pl. fut. act. ind.|Conjugation::agō
+agō|agētis|you all will drive|vōs pecora <v>agētis</v>|you all will drive the cattle|2P pl. fut. act. ind.|Conjugation::agō
+agō|agent|they will drive|agricolae bovēs <v>agent</v>|the farmers will drive the cattle|3P pl. fut. act. ind.|Conjugation::agō
+agō|agar|I will be driven|<v>agar</v> in exsilium|I will be driven into exile|1P sg. fut. pass. ind.|Conjugation::agō
+agō|agēris|you will be driven|<v>agēris</v> ventō|you will be driven by the wind|2P sg. fut. pass. ind.|Conjugation::agō
+agō|agētur|he/she/it will be driven|navis <v>agētur</v> fluctibus|the ship will be driven by the waves|3P sg. fut. pass. ind.|Conjugation::agō
+agō|agēmur|we will be driven|<v>agēmur</v> fatō|we will be driven by fate|1P pl. fut. pass. ind.|Conjugation::agō
+agō|agēminī|you all will be driven|<v>agēminī</v> timōre|you all will be driven by fear|2P pl. fut. pass. ind.|Conjugation::agō
+agō|agentur|they will be driven|equī <v>agentur</v> per viam|the horses will be driven along the road|3P pl. fut. pass. ind.|Conjugation::agō
+agō|ēgī|I drove/have driven|<v>ēgī</v> currūs per urbem|I drove chariots through the city|1P sg. perf. act. ind.|Conjugation::agō
+agō|ēgistī|you drove/have driven|tū pecūs <v>ēgistī</v>|you drove the cattle|2P sg. perf. act. ind.|Conjugation::agō
+agō|ēgit|he/she/it drove/has driven|dux exercitum <v>ēgit</v>|the leader drove the army|3P sg. perf. act. ind.|Conjugation::agō
+agō|ēgimus|we drove/have driven|<v>ēgimus</v> equōs|we drove the horses|1P pl. perf. act. ind.|Conjugation::agō
+agō|ēgistis|you all drove/have driven|vōs gregem <v>ēgistis</v>|you all drove the flock|2P pl. perf. act. ind.|Conjugation::agō
+agō|ēgērunt|they drove/have driven|mīlitēs captīvōs <v>ēgērunt</v>|the soldiers drove the captives|3P pl. perf. act. ind.|Conjugation::agō
+agō|āctus sum|I was/have been driven|<v>āctus sum</v> in exsilium|I was driven into exile|1P sg. perf. pass. ind.|Conjugation::agō
+agō|āctus es|you were/have been driven|<v>āctus es</v> procellā|you were driven by the storm|2P sg. perf. pass. ind.|Conjugation::agō
+agō|āctus est|he/she/it was/has been driven|navis <v>ācta est</v> ventīs|the ship was driven by the winds|3P sg. perf. pass. ind.|Conjugation::agō
+agō|āctī sumus|we were/have been driven|<v>āctī sumus</v> in fugam|we were driven to flight|1P pl. perf. pass. ind.|Conjugation::agō
+agō|āctī estis|you all were/have been driven|<v>āctī estis</v> mētū|you all were driven by fear|2P pl. perf. pass. ind.|Conjugation::agō
+agō|āctī sunt|they were/have been driven|hostēs <v>āctī sunt</v> in fugam|the enemies were driven to flight|3P pl. perf. pass. ind.|Conjugation::agō
+agō|ēgeram|I had driven|iam equōs <v>ēgeram</v>|I had already driven the horses|1P sg. plup. act. ind.|Conjugation::agō
+agō|ēgerās|you had driven|tū gregem <v>ēgerās</v>|you had driven the flock|2P sg. plup. act. ind.|Conjugation::agō
+agō|ēgerat|he/she/it had driven|pāstor ovēs <v>ēgerat</v>|the shepherd had driven the sheep|3P sg. plup. act. ind.|Conjugation::agō
+agō|ēgerāmus|we had driven|nōs currūs <v>ēgerāmus</v>|we had driven the chariots|1P pl. plup. act. ind.|Conjugation::agō
+agō|ēgerātis|you all had driven|vōs pecora <v>ēgerātis</v>|you all had driven the cattle|2P pl. plup. act. ind.|Conjugation::agō
+agō|ēgerant|they had driven|agricolae bovēs <v>ēgerant</v>|the farmers had driven the cattle|3P pl. plup. act. ind.|Conjugation::agō
+agō|āctus eram|I had been driven|<v>āctus eram</v> in exsilium|I had been driven into exile|1P sg. plup. pass. ind.|Conjugation::agō
+agō|āctus erās|you had been driven|<v>āctus erās</v> ventō|you had been driven by the wind|2P sg. plup. pass. ind.|Conjugation::agō
+agō|āctus erat|he/she/it had been driven|navis <v>ācta erat</v> fluctibus|the ship had been driven by the waves|3P sg. plup. pass. ind.|Conjugation::agō
+agō|āctī erāmus|we had been driven|<v>āctī erāmus</v> fatō|we had been driven by fate|1P pl. plup. pass. ind.|Conjugation::agō
+agō|āctī erātis|you all had been driven|<v>āctī erātis</v> timōre|you all had been driven by fear|2P pl. plup. pass. ind.|Conjugation::agō
+agō|āctī erant|they had been driven|equī <v>āctī erant</v> per viam|the horses had been driven along the road|3P pl. plup. pass. ind.|Conjugation::agō
+agō|ēgerō|I will have driven|ante noctem equōs <v>ēgerō</v>|I will have driven the horses before night|1P sg. futperf. act. ind.|Conjugation::agō
+agō|ēgeris|you will have driven|tū gregem <v>ēgeris</v>|you will have driven the flock|2P sg. futperf. act. ind.|Conjugation::agō
+agō|ēgerit|he/she/it will have driven|pāstor ovēs <v>ēgerit</v>|the shepherd will have driven the sheep|3P sg. futperf. act. ind.|Conjugation::agō
+agō|ēgerimus|we will have driven|nōs currūs <v>ēgerimus</v>|we will have driven the chariots|1P pl. futperf. act. ind.|Conjugation::agō
+agō|ēgeritis|you all will have driven|vōs pecora <v>ēgeritis</v>|you all will have driven the cattle|2P pl. futperf. act. ind.|Conjugation::agō
+agō|ēgerint|they will have driven|agricolae bovēs <v>ēgerint</v>|the farmers will have driven the cattle|3P pl. futperf. act. ind.|Conjugation::agō
+agō|āctus erō|I will have been driven|<v>āctus erō</v> in exsilium|I will have been driven into exile|1P sg. futperf. pass. ind.|Conjugation::agō
+agō|āctus eris|you will have been driven|<v>āctus eris</v> ventō|you will have been driven by the wind|2P sg. futperf. pass. ind.|Conjugation::agō
+agō|āctus erit|he/she/it will have been driven|navis <v>ācta erit</v> fluctibus|the ship will have been driven by the waves|3P sg. futperf. pass. ind.|Conjugation::agō
+agō|āctī erimus|we will have been driven|<v>āctī erimus</v> fatō|we will have been driven by fate|1P pl. futperf. pass. ind.|Conjugation::agō
+agō|āctī eritis|you all will have been driven|<v>āctī eritis</v> timōre|you all will have been driven by fear|2P pl. futperf. pass. ind.|Conjugation::agō
+agō|āctī erunt|they will have been driven|equī <v>āctī erunt</v> per viam|the horses will have been driven along the road|3P pl. futperf. pass. ind.|Conjugation::agō
+agō|agam|I may drive|utinam equōs <v>agam</v>|if only I may drive the horses|1P sg. pres. act. subj.|Conjugation::agō
+agō|agās|you may drive|utinam gregem <v>agās</v>|if only you may drive the flock|2P sg. pres. act. subj.|Conjugation::agō
+agō|agat|he/she/it may drive|utinam pāstor ovēs <v>agat</v>|if only the shepherd may drive the sheep|3P sg. pres. act. subj.|Conjugation::agō
+agō|agāmus|we may drive|utinam currūs <v>agāmus</v>|if only we may drive the chariots|1P pl. pres. act. subj.|Conjugation::agō
+agō|agātis|you all may drive|utinam pecora <v>agātis</v>|if only you all may drive the cattle|2P pl. pres. act. subj.|Conjugation::agō
+agō|agant|they may drive|utinam agricolae bovēs <v>agant</v>|if only the farmers may drive the cattle|3P pl. pres. act. subj.|Conjugation::agō
+agō|agar|I may be driven|utinam nē <v>agar</v> in exsilium|if only I may not be driven into exile|1P sg. pres. pass. subj.|Conjugation::agō
+agō|agāris|you may be driven|utinam nē <v>agāris</v> ventō|if only you may not be driven by the wind|2P sg. pres. pass. subj.|Conjugation::agō
+agō|agātur|he/she/it may be driven|utinam navis nē <v>agātur</v> fluctibus|if only the ship may not be driven by the waves|3P sg. pres. pass. subj.|Conjugation::agō
+agō|agāmur|we may be driven|utinam nē <v>agāmur</v> fatō|if only we may not be driven by fate|1P pl. pres. pass. subj.|Conjugation::agō
+agō|agāminī|you all may be driven|utinam nē <v>agāminī</v> timōre|if only you all may not be driven by fear|2P pl. pres. pass. subj.|Conjugation::agō
+agō|agantur|they may be driven|utinam equī nē <v>agantur</v> per viam|if only the horses may not be driven along the road|3P pl. pres. pass. subj.|Conjugation::agō
+agō|agerem|I would drive|sī possem, equōs <v>agerem</v>|if I could, I would drive the horses|1P sg. impf. act. subj.|Conjugation::agō
+agō|agerēs|you would drive|sī possēs, gregem <v>agerēs</v>|if you could, you would drive the flock|2P sg. impf. act. subj.|Conjugation::agō
+agō|ageret|he/she/it would drive|sī posset, pāstor ovēs <v>ageret</v>|if he could, the shepherd would drive the sheep|3P sg. impf. act. subj.|Conjugation::agō
+agō|agerēmus|we would drive|sī possēmus, currūs <v>agerēmus</v>|if we could, we would drive the chariots|1P pl. impf. act. subj.|Conjugation::agō
+agō|agerētis|you all would drive|sī possētis, pecora <v>agerētis</v>|if you could, you all would drive the cattle|2P pl. impf. act. subj.|Conjugation::agō
+agō|agerent|they would drive|sī possent, agricolae bovēs <v>agerent</v>|if they could, the farmers would drive the cattle|3P pl. impf. act. subj.|Conjugation::agō
+agō|agerer|I would be driven|sī necesse esset, <v>agerer</v> in exsilium|if it were necessary, I would be driven into exile|1P sg. impf. pass. subj.|Conjugation::agō
+agō|agerēris|you would be driven|sī necesse esset, <v>agerēris</v> ventō|if it were necessary, you would be driven by the wind|2P sg. impf. pass. subj.|Conjugation::agō
+agō|agerētur|he/she/it would be driven|sī necesse esset, navis <v>agerētur</v> fluctibus|if it were necessary, the ship would be driven by the waves|3P sg. impf. pass. subj.|Conjugation::agō
+agō|agerēmur|we would be driven|sī necesse esset, <v>agerēmur</v> fatō|if it were necessary, we would be driven by fate|1P pl. impf. pass. subj.|Conjugation::agō
+agō|agerēminī|you all would be driven|sī necesse esset, <v>agerēminī</v> timōre|if it were necessary, you all would be driven by fear|2P pl. impf. pass. subj.|Conjugation::agō
+agō|agerentur|they would be driven|sī necesse esset, equī <v>agerentur</v> per viam|if it were necessary, the horses would be driven along the road|3P pl. impf. pass. subj.|Conjugation::agō
+agō|ēgerim|I may have driven|forsitan equōs <v>ēgerim</v>|perhaps I may have driven the horses|1P sg. perf. act. subj.|Conjugation::agō
+agō|ēgerīs|you may have driven|forsitan gregem <v>ēgerīs</v>|perhaps you may have driven the flock|2P sg. perf. act. subj.|Conjugation::agō
+agō|ēgerit|he/she/it may have driven|forsitan pāstor ovēs <v>ēgerit</v>|perhaps the shepherd may have driven the sheep|3P sg. perf. act. subj.|Conjugation::agō
+agō|ēgerīmus|we may have driven|forsitan currūs <v>ēgerīmus</v>|perhaps we may have driven the chariots|1P pl. perf. act. subj.|Conjugation::agō
+agō|ēgerītis|you all may have driven|forsitan pecora <v>ēgerītis</v>|perhaps you all may have driven the cattle|2P pl. perf. act. subj.|Conjugation::agō
+agō|ēgerint|they may have driven|forsitan agricolae bovēs <v>ēgerint</v>|perhaps the farmers may have driven the cattle|3P pl. perf. act. subj.|Conjugation::agō
+agō|āctus sim|I may have been driven|forsitan <v>āctus sim</v> in exsilium|perhaps I may have been driven into exile|1P sg. perf. pass. subj.|Conjugation::agō
+agō|āctus sīs|you may have been driven|forsitan <v>āctus sīs</v> ventō|perhaps you may have been driven by the wind|2P sg. perf. pass. subj.|Conjugation::agō
+agō|āctus sit|he/she/it may have been driven|forsitan navis <v>ācta sit</v> fluctibus|perhaps the ship may have been driven by the waves|3P sg. perf. pass. subj.|Conjugation::agō
+agō|āctī sīmus|we may have been driven|forsitan <v>āctī sīmus</v> fatō|perhaps we may have been driven by fate|1P pl. perf. pass. subj.|Conjugation::agō
+agō|āctī sītis|you all may have been driven|forsitan <v>āctī sītis</v> timōre|perhaps you all may have been driven by fear|2P pl. perf. pass. subj.|Conjugation::agō
+agō|āctī sint|they may have been driven|forsitan equī <v>āctī sint</v> per viam|perhaps the horses may have been driven along the road|3P pl. perf. pass. subj.|Conjugation::agō
+agō|ēgissem|I would have driven|sī potuissem, equōs <v>ēgissem</v>|if I had been able, I would have driven the horses|1P sg. plup. act. subj.|Conjugation::agō
+agō|ēgissēs|you would have driven|sī potuissēs, gregem <v>ēgissēs</v>|if you had been able, you would have driven the flock|2P sg. plup. act. subj.|Conjugation::agō
+agō|ēgisset|he/she/it would have driven|sī potuisset, pāstor ovēs <v>ēgisset</v>|if he had been able, the shepherd would have driven the sheep|3P sg. plup. act. subj.|Conjugation::agō
+agō|ēgissēmus|we would have driven|sī potuissēmus, currūs <v>ēgissēmus</v>|if we had been able, we would have driven the chariots|1P pl. plup. act. subj.|Conjugation::agō
+agō|ēgissētis|you all would have driven|sī potuissētis, pecora <v>ēgissētis</v>|if you had been able, you all would have driven the cattle|2P pl. plup. act. subj.|Conjugation::agō
+agō|ēgissent|they would have driven|sī potuissent, agricolae bovēs <v>ēgissent</v>|if they had been able, the farmers would have driven the cattle|3P pl. plup. act. subj.|Conjugation::agō
+agō|āctus essem|I would have been driven|sī necesse fuisset, <v>āctus essem</v> in exsilium|if it had been necessary, I would have been driven into exile|1P sg. plup. pass. subj.|Conjugation::agō
+agō|āctus essēs|you would have been driven|sī necesse fuisset, <v>āctus essēs</v> ventō|if it had been necessary, you would have been driven by the wind|2P sg. plup. pass. subj.|Conjugation::agō
+agō|āctus esset|he/she/it would have been driven|sī necesse fuisset, navis <v>ācta esset</v> fluctibus|if it had been necessary, the ship would have been driven by the waves|3P sg. plup. pass. subj.|Conjugation::agō
+agō|āctī essēmus|we would have been driven|sī necesse fuisset, <v>āctī essēmus</v> fatō|if it had been necessary, we would have been driven by fate|1P pl. plup. pass. subj.|Conjugation::agō
+agō|āctī essētis|you all would have been driven|sī necesse fuisset, <v>āctī essētis</v> timōre|if it had been necessary, you all would have been driven by fear|2P pl. plup. pass. subj.|Conjugation::agō
+agō|āctī essent|they would have been driven|sī necesse fuisset, equī <v>āctī essent</v> per viam|if it had been necessary, the horses would have been driven along the road|3P pl. plup. pass. subj.|Conjugation::agō
+agō|age|drive!|<v>age</v> equōs!|drive the horses!|2P sg. pres. act. imp.|Conjugation::agō
+agō|agite|drive! (plural)|<v>agite</v> pecora!|drive the cattle! (plural)|2P pl. pres. act. imp.|Conjugation::agō
+agō|agere|to drive|bovēs <v>agere</v> difficile est|to drive cattle is difficult|__ __ pres. act. inf.|Conjugation::agō
+agō|ēgisse|to have driven|dīcit sē equōs <v>ēgisse</v>|he says that he has driven the horses|__ __ perf. act. inf.|Conjugation::agō
+agō|āctūrus esse|to be about to drive|dīcit sē bovēs <v>āctūrum esse</v>|he says that he is about to drive the cattle|__ __ fut. act. inf.|Conjugation::agō
+agō|agī|to be driven|equī possunt <v>agī</v>|horses can be driven|__ __ pres. pass. inf.|Conjugation::agō
+agō|āctum esse|to have been driven|dīcit equōs <v>āctōs esse</v>|he says that the horses have been driven|__ __ perf. pass. inf.|Conjugation::agō
+agō|āctum īrī|to be about to be driven|dīcit equōs <v>āctum īrī</v>|he says that the horses are about to be driven|__ __ fut. pass. inf.|Conjugation::agō
+agō|agēns|driving|vidī pāstōrem ovēs <v>agentem</v>|I saw the shepherd driving the sheep|__ __ pres. act. part.|Conjugation::agō
+agō|āctūrus|about to drive|pāstor, ovēs <v>āctūrus</v>, surgit|the shepherd, about to drive the sheep, rises|__ __ fut. act. part.|Conjugation::agō
+agō|āctus|having been driven|equī, <v>āctī</v> per viam, fessī erant|the horses, having been driven along the road, were tired|__ __ perf. pass. part.|Conjugation::agō
+agō|agendī|of driving|ars equōs <v>agendī</v> difficilis est|the art of driving horses is difficult|__ __ __ __ gerund.|Conjugation::agō
+agō|āctum|to drive (supine)|eunt <v>āctum</v> pecora|they go to drive the cattle|__ __ __ __ supine.|Conjugation::agō
+
+audiō|audiō|I hear|<v>audiō</v> vōcem tuam|I hear your voice|1P sg. pres. act. ind.|Conjugation::audiō
+audiō|audis|you hear|<v>audis</v> mē cantantem|you hear me singing|2P sg. pres. act. ind.|Conjugation::audiō
+audiō|audit|he/she/it hears|puer <v>audit</v> avēs|the boy hears the birds|3P sg. pres. act. ind.|Conjugation::audiō
+audiō|audīmus|we hear|<v>audīmus</v> ventum|we hear the wind|1P pl. pres. act. ind.|Conjugation::audiō
+audiō|audītis|you all hear|<v>audītis</v> mūsicam|you all hear the music|2P pl. pres. act. ind.|Conjugation::audiō
+audiō|audiunt|they hear|servī <v>audiunt</v> dominum|the slaves hear the master|3P pl. pres. act. ind.|Conjugation::audiō
+audiō|audior|I am heard|<v>audior</v> ā multīs|I am heard by many|1P sg. pres. pass. ind.|Conjugation::audiō
+audiō|audīris|you are heard|<v>audīris</v> per tōtam urbem|you are heard throughout the city|2P sg. pres. pass. ind.|Conjugation::audiō
+audiō|audītur|he/she/it is heard|vōx eius <v>audītur</v>|his voice is heard|3P sg. pres. pass. ind.|Conjugation::audiō
+audiō|audīmur|we are heard|<v>audīmur</v> ā dīs|we are heard by the gods|1P pl. pres. pass. ind.|Conjugation::audiō
+audiō|audīminī|you all are heard|<v>audīminī</v> ā magistrō|you all are heard by the teacher|2P pl. pres. pass. ind.|Conjugation::audiō
+audiō|audiuntur|they are heard|carmina <v>audiuntur</v>|songs are heard|3P pl. pres. pass. ind.|Conjugation::audiō
+audiō|audiēbam|I was hearing|<v>audiēbam</v> clāmōrēs|I was hearing shouts|1P sg. impf. act. ind.|Conjugation::audiō
+audiō|audiēbās|you were hearing|<v>audiēbās</v> sonitum|you were hearing the sound|2P sg. impf. act. ind.|Conjugation::audiō
+audiō|audiēbat|he/she/it was hearing|puer <v>audiēbat</v> fābulam|the boy was hearing the story|3P sg. impf. act. ind.|Conjugation::audiō
+audiō|audiēbāmus|we were hearing|<v>audiēbāmus</v> cantūs|we were hearing songs|1P pl. impf. act. ind.|Conjugation::audiō
+audiō|audiēbātis|you all were hearing|<v>audiēbātis</v> tonitrua|you all were hearing thunder|2P pl. impf. act. ind.|Conjugation::audiō
+audiō|audiēbant|they were hearing|mīlitēs <v>audiēbant</v> tubam|the soldiers were hearing the trumpet|3P pl. impf. act. ind.|Conjugation::audiō
+audiō|audiēbar|I was being heard|<v>audiēbar</v> in forō|I was being heard in the forum|1P sg. impf. pass. ind.|Conjugation::audiō
+audiō|audiēbāris|you were being heard|<v>audiēbāris</v> ā senātū|you were being heard by the senate|2P sg. impf. pass. ind.|Conjugation::audiō
+audiō|audiēbātur|he/she/it was being heard|vōx <v>audiēbātur</v> ē templō|the voice was being heard from the temple|3P sg. impf. pass. ind.|Conjugation::audiō
+audiō|audiēbāmur|we were being heard|<v>audiēbāmur</v> ā populō|we were being heard by the people|1P pl. impf. pass. ind.|Conjugation::audiō
+audiō|audiēbāminī|you all were being heard|<v>audiēbāminī</v> ā iūdice|you all were being heard by the judge|2P pl. impf. pass. ind.|Conjugation::audiō
+audiō|audiēbantur|they were being heard|verba <v>audiēbantur</v> clārē|the words were being heard clearly|3P pl. impf. pass. ind.|Conjugation::audiō
+audiō|audiam|I will hear|crās tē <v>audiam</v>|tomorrow I will hear you|1P sg. fut. act. ind.|Conjugation::audiō
+audiō|audiēs|you will hear|mox <v>audiēs</v> nūntium|soon you will hear the message|2P sg. fut. act. ind.|Conjugation::audiō
+audiō|audiet|he/she/it will hear|rēx <v>audiet</v> precēs|the king will hear the prayers|3P sg. fut. act. ind.|Conjugation::audiō
+audiō|audiēmus|we will hear|<v>audiēmus</v> ōrāculum|we will hear the oracle|1P pl. fut. act. ind.|Conjugation::audiō
+audiō|audiētis|you all will hear|mox <v>audiētis</v> vēritātem|soon you all will hear the truth|2P pl. fut. act. ind.|Conjugation::audiō
+audiō|audient|they will hear|omnēs <v>audient</v> lēgem|all will hear the law|3P pl. fut. act. ind.|Conjugation::audiō
+audiō|audiar|I will be heard|<v>audiar</v> ā cōnsule|I will be heard by the consul|1P sg. fut. pass. ind.|Conjugation::audiō
+audiō|audiēris|you will be heard|<v>audiēris</v> ā rēge|you will be heard by the king|2P sg. fut. pass. ind.|Conjugation::audiō
+audiō|audiētur|he/she/it will be heard|vōx eius <v>audiētur</v> ubīque|his voice will be heard everywhere|3P sg. fut. pass. ind.|Conjugation::audiō
+audiō|audiēmur|we will be heard|<v>audiēmur</v> ā deīs|we will be heard by the gods|1P pl. fut. pass. ind.|Conjugation::audiō
+audiō|audiēminī|you all will be heard|<v>audiēminī</v> ā senātū|you all will be heard by the senate|2P pl. fut. pass. ind.|Conjugation::audiō
+audiō|audientur|they will be heard|preces <v>audientur</v>|the prayers will be heard|3P pl. fut. pass. ind.|Conjugation::audiō
+audiō|audīvī|I heard/have heard|tandem tē <v>audīvī</v>|finally I heard you|1P sg. perf. act. ind.|Conjugation::audiō
+audiō|audīvistī|you heard/have heard|bene <v>audīvistī</v>|you heard well|2P sg. perf. act. ind.|Conjugation::audiō
+audiō|audīvit|he/she/it heard/has heard|dux <v>audīvit</v> nūntium|the leader heard the message|3P sg. perf. act. ind.|Conjugation::audiō
+audiō|audīvimus|we heard/have heard|<v>audīvimus</v> clāmōrem|we heard the shout|1P pl. perf. act. ind.|Conjugation::audiō
+audiō|audīvistis|you all heard/have heard|<v>audīvistis</v> fābulam|you all heard the story|2P pl. perf. act. ind.|Conjugation::audiō
+audiō|audīvērunt|they heard/have heard|cīvēs <v>audīvērunt</v> ēdictum|the citizens heard the proclamation|3P pl. perf. act. ind.|Conjugation::audiō
+audiō|audītus sum|I was/have been heard|<v>audītus sum</v> ā patre|I was heard by father|1P sg. perf. pass. ind.|Conjugation::audiō
+audiō|audītus es|you were/have been heard|<v>audītus es</v> ā magistrō|you were heard by the teacher|2P sg. perf. pass. ind.|Conjugation::audiō
+audiō|audītus est|he/she/it was/has been heard|ōrātor <v>audītus est</v>|the orator was heard|3P sg. perf. pass. ind.|Conjugation::audiō
+audiō|audītī sumus|we were/have been heard|<v>audītī sumus</v> ā senātū|we were heard by the senate|1P pl. perf. pass. ind.|Conjugation::audiō
+audiō|audītī estis|you all were/have been heard|<v>audītī estis</v> ā iūdice|you all were heard by the judge|2P pl. perf. pass. ind.|Conjugation::audiō
+audiō|audītī sunt|they were/have been heard|testēs <v>audītī sunt</v>|the witnesses were heard|3P pl. perf. pass. ind.|Conjugation::audiō
+audiō|audīveram|I had heard|iam <v>audīveram</v> fābulam|I had already heard the story|1P sg. plup. act. ind.|Conjugation::audiō
+audiō|audīverās|you had heard|antea <v>audīverās</v> nūntium|previously you had heard the message|2P sg. plup. act. ind.|Conjugation::audiō
+audiō|audīverat|he/she/it had heard|senex <v>audīverat</v> rumōrem|the old man had heard the rumor|3P sg. plup. act. ind.|Conjugation::audiō
+audiō|audīverāmus|we had heard|<v>audīverāmus</v> cantum|we had heard the song|1P pl. plup. act. ind.|Conjugation::audiō
+audiō|audīverātis|you all had heard|<v>audīverātis</v> ōrāculum|you all had heard the oracle|2P pl. plup. act. ind.|Conjugation::audiō
+audiō|audīverant|they had heard|omnēs <v>audīverant</v> nōmen|all had heard the name|3P pl. plup. act. ind.|Conjugation::audiō
+audiō|audītus eram|I had been heard|<v>audītus eram</v> ā multīs|I had been heard by many|1P sg. plup. pass. ind.|Conjugation::audiō
+audiō|audītus erās|you had been heard|<v>audītus erās</v> ā rēge|you had been heard by the king|2P sg. plup. pass. ind.|Conjugation::audiō
+audiō|audītus erat|he/she/it had been heard|carmen <v>audītum erat</v>|the song had been heard|3P sg. plup. pass. ind.|Conjugation::audiō
+audiō|audītī erāmus|we had been heard|<v>audītī erāmus</v> ā populō|we had been heard by the people|1P pl. plup. pass. ind.|Conjugation::audiō
+audiō|audītī erātis|you all had been heard|<v>audītī erātis</v> ā ducibus|you all had been heard by the leaders|2P pl. plup. pass. ind.|Conjugation::audiō
+audiō|audītī erant|they had been heard|vocēs <v>audītae erant</v>|the voices had been heard|3P pl. plup. pass. ind.|Conjugation::audiō
+audiō|audīverō|I will have heard|mox <v>audīverō</v> tē|soon I will have heard you|1P sg. futperf. act. ind.|Conjugation::audiō
+audiō|audīveris|you will have heard|<v>audīveris</v> nūntium|you will have heard the message|2P sg. futperf. act. ind.|Conjugation::audiō
+audiō|audīverit|he/she/it will have heard|puer <v>audīverit</v> fābulam|the boy will have heard the story|3P sg. futperf. act. ind.|Conjugation::audiō
+audiō|audīverimus|we will have heard|<v>audīverimus</v> ōrāculum|we will have heard the oracle|1P pl. futperf. act. ind.|Conjugation::audiō
+audiō|audīveritis|you all will have heard|<v>audīveritis</v> vēritātem|you all will have heard the truth|2P pl. futperf. act. ind.|Conjugation::audiō
+audiō|audīverint|they will have heard|omnēs <v>audīverint</v> lēgem|all will have heard the law|3P pl. futperf. act. ind.|Conjugation::audiō
+audiō|audītus erō|I will have been heard|<v>audītus erō</v> ā senātū|I will have been heard by the senate|1P sg. futperf. pass. ind.|Conjugation::audiō
+audiō|audītus eris|you will have been heard|<v>audītus eris</v> ā iūdice|you will have been heard by the judge|2P sg. futperf. pass. ind.|Conjugation::audiō
+audiō|audītus erit|he/she/it will have been heard|vōx <v>audīta erit</v>|the voice will have been heard|3P sg. futperf. pass. ind.|Conjugation::audiō
+audiō|audītī erimus|we will have been heard|<v>audītī erimus</v> ā populō|we will have been heard by the people|1P pl. futperf. pass. ind.|Conjugation::audiō
+audiō|audītī eritis|you all will have been heard|<v>audītī eritis</v> ā magistrō|you all will have been heard by the teacher|2P pl. futperf. pass. ind.|Conjugation::audiō
+audiō|audītī erunt|they will have been heard|verba <v>audīta erunt</v>|the words will have been heard|3P pl. futperf. pass. ind.|Conjugation::audiō
+audiō|audiam|I may hear|utinam tē <v>audiam</v>|if only I may hear you|1P sg. pres. act. subj.|Conjugation::audiō
+audiō|audiās|you may hear|utinam <v>audiās</v> mē|if only you may hear me|2P sg. pres. act. subj.|Conjugation::audiō
+audiō|audiat|he/she/it may hear|utinam puer <v>audiat</v>|if only the boy may hear|3P sg. pres. act. subj.|Conjugation::audiō
+audiō|audiāmus|we may hear|utinam <v>audiāmus</v> cantum|if only we may hear the song|1P pl. pres. act. subj.|Conjugation::audiō
+audiō|audiātis|you all may hear|utinam <v>audiātis</v> vēritātem|if only you all may hear the truth|2P pl. pres. act. subj.|Conjugation::audiō
+audiō|audiant|they may hear|utinam omnēs <v>audiant</v>|if only all may hear|3P pl. pres. act. subj.|Conjugation::audiō
+audiō|audiar|I may be heard|utinam <v>audiar</v> ā patre|if only I may be heard by father|1P sg. pres. pass. subj.|Conjugation::audiō
+audiō|audiāris|you may be heard|utinam <v>audiāris</v> ā magistrō|if only you may be heard by the teacher|2P sg. pres. pass. subj.|Conjugation::audiō
+audiō|audiātur|he/she/it may be heard|utinam vōx <v>audiātur</v>|if only the voice may be heard|3P sg. pres. pass. subj.|Conjugation::audiō
+audiō|audiāmur|we may be heard|utinam <v>audiāmur</v> ā senātū|if only we may be heard by the senate|1P pl. pres. pass. subj.|Conjugation::audiō
+audiō|audiāminī|you all may be heard|utinam <v>audiāminī</v> ā rēge|if only you all may be heard by the king|2P pl. pres. pass. subj.|Conjugation::audiō
+audiō|audiantur|they may be heard|utinam preces <v>audiantur</v>|if only the prayers may be heard|3P pl. pres. pass. subj.|Conjugation::audiō
+audiō|audīrem|I would hear|<v>audīrem</v> sī possem|I would hear if I could|1P sg. impf. act. subj.|Conjugation::audiō
+audiō|audīrēs|you would hear|<v>audīrēs</v> sī adessēs|you would hear if you were present|2P sg. impf. act. subj.|Conjugation::audiō
+audiō|audīret|he/she/it would hear|puer <v>audīret</v> sī vigilāret|the boy would hear if he were awake|3P sg. impf. act. subj.|Conjugation::audiō
+audiō|audīrēmus|we would hear|<v>audīrēmus</v> sī licēret|we would hear if it were permitted|1P pl. impf. act. subj.|Conjugation::audiō
+audiō|audīrētis|you all would hear|<v>audīrētis</v> sī venīrētis|you all would hear if you came|2P pl. impf. act. subj.|Conjugation::audiō
+audiō|audīrent|they would hear|omnēs <v>audīrent</v> sī tacērent|all would hear if they were silent|3P pl. impf. act. subj.|Conjugation::audiō
+audiō|audīrer|I would be heard|<v>audīrer</v> sī clāmārem|I would be heard if I shouted|1P sg. impf. pass. subj.|Conjugation::audiō
+audiō|audīrēris|you would be heard|<v>audīrēris</v> sī loquērēris|you would be heard if you spoke|2P sg. impf. pass. subj.|Conjugation::audiō
+audiō|audīrētur|he/she/it would be heard|vōx <v>audīrētur</v> sī esset|the voice would be heard if it existed|3P sg. impf. pass. subj.|Conjugation::audiō
+audiō|audīrēmur|we would be heard|<v>audīrēmur</v> sī canerēmus|we would be heard if we sang|1P pl. impf. pass. subj.|Conjugation::audiō
+audiō|audīrēminī|you all would be heard|<v>audīrēminī</v> sī clāmārētis|you all would be heard if you shouted|2P pl. impf. pass. subj.|Conjugation::audiō
+audiō|audīrentur|they would be heard|verba <v>audīrentur</v> sī dīcerentur|the words would be heard if they were spoken|3P pl. impf. pass. subj.|Conjugation::audiō
+audiō|audīverim|I may have heard|forsitan <v>audīverim</v>|perhaps I may have heard|1P sg. perf. act. subj.|Conjugation::audiō
+audiō|audīverīs|you may have heard|forsitan <v>audīverīs</v>|perhaps you may have heard|2P sg. perf. act. subj.|Conjugation::audiō
+audiō|audīverit|he/she/it may have heard|forsitan puer <v>audīverit</v>|perhaps the boy may have heard|3P sg. perf. act. subj.|Conjugation::audiō
+audiō|audīverīmus|we may have heard|forsitan <v>audīverīmus</v>|perhaps we may have heard|1P pl. perf. act. subj.|Conjugation::audiō
+audiō|audīverītis|you all may have heard|forsitan <v>audīverītis</v>|perhaps you all may have heard|2P pl. perf. act. subj.|Conjugation::audiō
+audiō|audīverint|they may have heard|forsitan omnēs <v>audīverint</v>|perhaps all may have heard|3P pl. perf. act. subj.|Conjugation::audiō
+audiō|audītus sim|I may have been heard|forsitan <v>audītus sim</v>|perhaps I may have been heard|1P sg. perf. pass. subj.|Conjugation::audiō
+audiō|audītus sīs|you may have been heard|forsitan <v>audītus sīs</v>|perhaps you may have been heard|2P sg. perf. pass. subj.|Conjugation::audiō
+audiō|audītus sit|he/she/it may have been heard|forsitan vōx <v>audīta sit</v>|perhaps the voice may have been heard|3P sg. perf. pass. subj.|Conjugation::audiō
+audiō|audītī sīmus|we may have been heard|forsitan <v>audītī sīmus</v>|perhaps we may have been heard|1P pl. perf. pass. subj.|Conjugation::audiō
+audiō|audītī sītis|you all may have been heard|forsitan <v>audītī sītis</v>|perhaps you all may have been heard|2P pl. perf. pass. subj.|Conjugation::audiō
+audiō|audītī sint|they may have been heard|forsitan verba <v>audīta sint</v>|perhaps the words may have been heard|3P pl. perf. pass. subj.|Conjugation::audiō
+audiō|audīvissem|I would have heard|<v>audīvissem</v> sī adfuissem|I would have heard if I had been present|1P sg. plup. act. subj.|Conjugation::audiō
+audiō|audīvissēs|you would have heard|<v>audīvissēs</v> sī vēnissēs|you would have heard if you had come|2P sg. plup. act. subj.|Conjugation::audiō
+audiō|audīvisset|he/she/it would have heard|puer <v>audīvisset</v> sī vigilāvisset|the boy would have heard if he had been awake|3P sg. plup. act. subj.|Conjugation::audiō
+audiō|audīvissēmus|we would have heard|<v>audīvissēmus</v> sī licuisset|we would have heard if it had been permitted|1P pl. plup. act. subj.|Conjugation::audiō
+audiō|audīvissētis|you all would have heard|<v>audīvissētis</v> sī adfuissētis|you all would have heard if you had been present|2P pl. plup. act. subj.|Conjugation::audiō
+audiō|audīvissent|they would have heard|omnēs <v>audīvissent</v> sī tacuissent|all would have heard if they had been silent|3P pl. plup. act. subj.|Conjugation::audiō
+audiō|audītus essem|I would have been heard|<v>audītus essem</v> sī locūtus essem|I would have been heard if I had spoken|1P sg. plup. pass. subj.|Conjugation::audiō
+audiō|audītus essēs|you would have been heard|<v>audītus essēs</v> sī clāmāvissēs|you would have been heard if you had shouted|2P sg. plup. pass. subj.|Conjugation::audiō
+audiō|audītus esset|he/she/it would have been heard|vōx <v>audīta esset</v> sī fuisset|the voice would have been heard if it had existed|3P sg. plup. pass. subj.|Conjugation::audiō
+audiō|audītī essēmus|we would have been heard|<v>audītī essēmus</v> sī cantāvissēmus|we would have been heard if we had sung|1P pl. plup. pass. subj.|Conjugation::audiō
+audiō|audītī essētis|you all would have been heard|<v>audītī essētis</v> sī locūtī essētis|you all would have been heard if you had spoken|2P pl. plup. pass. subj.|Conjugation::audiō
+audiō|audītī essent|they would have been heard|verba <v>audīta essent</v> sī dicta essent|the words would have been heard if they had been spoken|3P pl. plup. pass. subj.|Conjugation::audiō
+audiō|audī|hear!|<v>audī</v> mē!|hear me!|2P sg. pres. act. imp.|Conjugation::audiō
+audiō|audīte|hear! (plural)|<v>audīte</v> omnēs!|hear, all of you!|2P pl. pres. act. imp.|Conjugation::audiō
+audiō|audītor|be heard!|<v>audītor</v> ā populō!|be heard by the people!|2P sg. pres. pass. imp.|Conjugation::audiō
+audiō|audīminī|be heard! (plural)|<v>audīminī</v> ā senātū!|be heard by the senate!|2P pl. pres. pass. imp.|Conjugation::audiō
+audiō|audīre|to hear|volō tē <v>audīre</v>|I want to hear you|__ __ pres. act. inf.|Conjugation::audiō
+audiō|audīrī|to be heard|cupiō <v>audīrī</v>|I desire to be heard|__ __ pres. pass. inf.|Conjugation::audiō
+audiō|audīvisse|to have heard|dīcit sē <v>audīvisse</v>|he says that he has heard|__ __ perf. act. inf.|Conjugation::audiō
+audiō|audītum esse|to have been heard|fertur <v>audītum esse</v>|it is said to have been heard|__ __ perf. pass. inf.|Conjugation::audiō
+audiō|audītūrus esse|to be about to hear|spērō mē <v>audītūrum esse</v>|I hope to be about to hear|__ __ fut. act. inf.|Conjugation::audiō
+audiō|audītum īrī|to be about to be heard|crēditur <v>audītum īrī</v>|it is believed to be about to be heard|__ __ fut. pass. inf.|Conjugation::audiō
+audiō|audiēns|hearing|<v>audiēns</v> verba, intellēxit|hearing the words, he understood|__ __ pres. act. part.|Conjugation::audiō
+audiō|audītūrus|about to hear|<v>audītūrus</v> ōrāculum vēnit|he came, about to hear the oracle|__ __ fut. act. part.|Conjugation::audiō
+audiō|audiendī|of hearing|ars <v>audiendī</v>|the art of hearing|__ __ __ __ gerund.|Conjugation::audiō
+audiō|audītum|to hear|vēnērunt <v>audītum</v> ōrātōrem|they came to hear the orator|__ __ __ __ supine.|Conjugation::audiō
+
+faciō|faciō|I make/do|<v>faciō</v> opus magnum.|I make a great work.|1P sg. pres. act. ind.|Conjugation::faciō
+faciō|facis|you make/do|<v>facis</v> rem pulchram.|You make a beautiful thing.|2P sg. pres. act. ind.|Conjugation::faciō
+faciō|facit|he/she/it makes/does|puer <v>facit</v> lectum.|The boy makes the bed.|3P sg. pres. act. ind.|Conjugation::faciō
+faciō|facimus|we make/do|<v>facimus</v> domum novam.|We make a new house.|1P pl. pres. act. ind.|Conjugation::faciō
+faciō|facitis|you all make/do|quid <v>facitis</v> hodiē?|What are you all doing today?|2P pl. pres. act. ind.|Conjugation::faciō
+faciō|faciunt|they make/do|servī <v>faciunt</v> cēnam.|The slaves make dinner.|3P pl. pres. act. ind.|Conjugation::faciō
+faciō|faciēbam|I was making/doing|<v>faciēbam</v> opus difficile.|I was doing difficult work.|1P sg. impf. act. ind.|Conjugation::faciō
+faciō|faciēbās|you were making/doing|tū <v>faciēbās</v> multum.|You were doing much.|2P sg. impf. act. ind.|Conjugation::faciō
+faciō|faciēbat|he/she/it was making/doing|magister <v>faciēbat</v> exemplum.|The teacher was making an example.|3P sg. impf. act. ind.|Conjugation::faciō
+faciō|faciēbāmus|we were making/doing|<v>faciēbāmus</v> iter longum.|We were making a long journey.|1P pl. impf. act. ind.|Conjugation::faciō
+faciō|faciēbātis|you all were making/doing|vōs <v>faciēbātis</v> bene.|You all were doing well.|2P pl. impf. act. ind.|Conjugation::faciō
+faciō|faciēbant|they were making/doing|discipulī <v>faciēbant</v> labōrem.|The students were doing work.|3P pl. impf. act. ind.|Conjugation::faciō
+faciō|faciam|I will make/do|crās <v>faciam</v> melius.|Tomorrow I will do better.|1P sg. fut. act. ind.|Conjugation::faciō
+faciō|faciēs|you will make/do|tū <v>faciēs</v> optimē.|You will do very well.|2P sg. fut. act. ind.|Conjugation::faciō
+faciō|faciet|he/she/it will make/do|soror <v>faciet</v> sacrum.|Sister will make the sacrifice.|3P sg. fut. act. ind.|Conjugation::faciō
+faciō|faciēmus|we will make/do|<v>faciēmus</v> iter ad urbem.|We will make a journey to the city.|1P pl. fut. act. ind.|Conjugation::faciō
+faciō|faciētis|you all will make/do|vōs <v>faciētis</v> magna.|You all will do great things.|2P pl. fut. act. ind.|Conjugation::faciō
+faciō|facient|they will make/do|mīlitēs <v>facient</v> castra.|The soldiers will make camp.|3P pl. fut. act. ind.|Conjugation::faciō
+faciō|fēcī|I made/did|<v>fēcī</v> quod potuī.|I did what I could.|1P sg. perf. act. ind.|Conjugation::faciō
+faciō|fēcistī|you made/did|bene <v>fēcistī</v>.|You did well.|2P sg. perf. act. ind.|Conjugation::faciō
+faciō|fēcit|he/she/it made/did|deus <v>fēcit</v> mundum.|God made the world.|3P sg. perf. act. ind.|Conjugation::faciō
+faciō|fēcimus|we made/did|<v>fēcimus</v> quod iustum erat.|We did what was right.|1P pl. perf. act. ind.|Conjugation::faciō
+faciō|fēcistis|you all made/did|vōs <v>fēcistis</v> satis.|You all did enough.|2P pl. perf. act. ind.|Conjugation::faciō
+faciō|fēcērunt|they made/did|maiōrēs nostrī bene <v>fēcērunt</v>.|Our ancestors did well.|3P pl. perf. act. ind.|Conjugation::faciō
+faciō|fēceram|I had made/done|iam <v>fēceram</v> opus.|I had already done the work.|1P sg. plup. act. ind.|Conjugation::faciō
+faciō|fēcerās|you had made/done|tū <v>fēcerās</v> antea.|You had done it before.|2P sg. plup. act. ind.|Conjugation::faciō
+faciō|fēcerat|he/she/it had made/done|pater <v>fēcerat</v> promissum.|Father had made a promise.|3P sg. plup. act. ind.|Conjugation::faciō
+faciō|fēcerāmus|we had made/done|<v>fēcerāmus</v> iter longum.|We had made a long journey.|1P pl. plup. act. ind.|Conjugation::faciō
+faciō|fēcerātis|you all had made/done|vōs <v>fēcerātis</v> multum.|You all had done much.|2P pl. plup. act. ind.|Conjugation::faciō
+faciō|fēcerant|they had made/done|servī <v>fēcerant</v> cēnam.|The slaves had made dinner.|3P pl. plup. act. ind.|Conjugation::faciō
+faciō|fēcerō|I will have made/done|mox <v>fēcerō</v> fīnem.|Soon I will have made an end.|1P sg. futperf. act. ind.|Conjugation::faciō
+faciō|fēceris|you will have made/done|cum <v>fēceris</v>, venī.|When you will have done it, come.|2P sg. futperf. act. ind.|Conjugation::faciō
+faciō|fēcerit|he/she/it will have made/done|cum <v>fēcerit</v>, laudābimus.|When he will have done it, we will praise.|3P sg. futperf. act. ind.|Conjugation::faciō
+faciō|fēcerimus|we will have made/done|cum <v>fēcerimus</v>, quiēscēmus.|When we will have done it, we will rest.|1P pl. futperf. act. ind.|Conjugation::faciō
+faciō|fēceritis|you all will have made/done|cum <v>fēceritis</v>, laudābō.|When you all will have done it, I will praise.|2P pl. futperf. act. ind.|Conjugation::faciō
+faciō|fēcerint|they will have made/done|cum <v>fēcerint</v>, gaudēbimus.|When they will have done it, we will rejoice.|3P pl. futperf. act. ind.|Conjugation::faciō
+faciō|fīō|I am made/done|<v>fīō</v> fēlīx.|I am made happy.|1P sg. pres. pass. ind.|Conjugation::faciō
+faciō|fīs|you are made/done|<v>fīs</v> doctior.|You are made wiser.|2P sg. pres. pass. ind.|Conjugation::faciō
+faciō|fit|he/she/it is made/done|opus <v>fit</v> bene.|The work is done well.|3P sg. pres. pass. ind.|Conjugation::faciō
+faciō|fīmus|we are made/done|<v>fīmus</v> fortiōrēs.|We are made stronger.|1P pl. pres. pass. ind.|Conjugation::faciō
+faciō|fītis|you all are made/done|vōs <v>fītis</v> sapientiōrēs.|You all are made wiser.|2P pl. pres. pass. ind.|Conjugation::faciō
+faciō|fīunt|they are made/done|rēs <v>fīunt</v> meliōrēs.|Things are made better.|3P pl. pres. pass. ind.|Conjugation::faciō
+faciō|fīēbam|I was being made/done|<v>fīēbam</v> laetus.|I was being made happy.|1P sg. impf. pass. ind.|Conjugation::faciō
+faciō|fīēbās|you were being made/done|<v>fīēbās</v> fortior.|You were being made stronger.|2P sg. impf. pass. ind.|Conjugation::faciō
+faciō|fīēbat|he/she/it was being made/done|opus <v>fīēbat</v> lentē.|The work was being done slowly.|3P sg. impf. pass. ind.|Conjugation::faciō
+faciō|fīēbāmus|we were being made/done|<v>fīēbāmus</v> doctiōrēs.|We were being made more learned.|1P pl. impf. pass. ind.|Conjugation::faciō
+faciō|fīēbātis|you all were being made/done|vōs <v>fīēbātis</v> meliōrēs.|You all were being made better.|2P pl. impf. pass. ind.|Conjugation::faciō
+faciō|fīēbant|they were being made/done|librī <v>fīēbant</v> novī.|Books were being made new.|3P pl. impf. pass. ind.|Conjugation::faciō
+faciō|fīam|I will be made/done|<v>fīam</v> magister.|I will be made a teacher.|1P sg. fut. pass. ind.|Conjugation::faciō
+faciō|fīēs|you will be made/done|<v>fīēs</v> sapientior.|You will be made wiser.|2P sg. fut. pass. ind.|Conjugation::faciō
+faciō|fīet|he/she/it will be made/done|opus <v>fīet</v> crās.|The work will be done tomorrow.|3P sg. fut. pass. ind.|Conjugation::faciō
+faciō|fīēmus|we will be made/done|<v>fīēmus</v> fortiōrēs.|We will be made stronger.|1P pl. fut. pass. ind.|Conjugation::faciō
+faciō|fīētis|you all will be made/done|vōs <v>fīētis</v> doctiōrēs.|You all will be made more learned.|2P pl. fut. pass. ind.|Conjugation::faciō
+faciō|fīent|they will be made/done|multae rēs <v>fīent</v>.|Many things will be done.|3P pl. fut. pass. ind.|Conjugation::faciō
+faciō|factus sum|I was/have been made/done|<v>factus sum</v> laetus.|I was made happy.|1P sg. perf. pass. ind.|Conjugation::faciō
+faciō|factus es|you were/have been made/done|<v>factus es</v> fortior.|You were made stronger.|2P sg. perf. pass. ind.|Conjugation::faciō
+faciō|factus est|he/she/it was/has been made/done|opus <v>factum est</v>.|The work was done.|3P sg. perf. pass. ind.|Conjugation::faciō
+faciō|factī sumus|we were/have been made/done|<v>factī sumus</v> doctiōrēs.|We were made more learned.|1P pl. perf. pass. ind.|Conjugation::faciō
+faciō|factī estis|you all were/have been made/done|<v>factī estis</v> sapientiōrēs.|You all were made wiser.|2P pl. perf. pass. ind.|Conjugation::faciō
+faciō|factī sunt|they were/have been made/done|multae rēs <v>factae sunt</v>.|Many things were done.|3P pl. perf. pass. ind.|Conjugation::faciō
+faciō|faciam|I may make/do|utinam <v>faciam</v> bene.|Would that I may do well.|1P sg. pres. act. subj.|Conjugation::faciō
+faciō|faciās|you may make/do|utinam <v>faciās</v> sapienter.|Would that you may do wisely.|2P sg. pres. act. subj.|Conjugation::faciō
+faciō|faciat|he/she/it may make/do|utinam <v>faciat</v> rectē.|Would that he may do rightly.|3P sg. pres. act. subj.|Conjugation::faciō
+faciō|faciāmus|we may make/do|<v>faciāmus</v> quod bonum est.|Let us do what is good.|1P pl. pres. act. subj.|Conjugation::faciō
+faciō|faciātis|you all may make/do|utinam <v>faciātis</v> optimē.|Would that you all may do very well.|2P pl. pres. act. subj.|Conjugation::faciō
+faciō|faciant|they may make/do|utinam <v>faciant</v> iūstē.|Would that they may do justly.|3P pl. pres. act. subj.|Conjugation::faciō
+faciō|facerem|I might make/do|sī possem, <v>facerem</v>.|If I could, I would do it.|1P sg. impf. act. subj.|Conjugation::faciō
+faciō|facerēs|you might make/do|sī vellēs, <v>facerēs</v>.|If you wished, you would do it.|2P sg. impf. act. subj.|Conjugation::faciō
+faciō|faceret|he/she/it might make/do|sī sciret, <v>faceret</v>.|If he knew, he would do it.|3P sg. impf. act. subj.|Conjugation::faciō
+faciō|facerēmus|we might make/do|sī possemus, <v>facerēmus</v>.|If we could, we would do it.|1P pl. impf. act. subj.|Conjugation::faciō
+faciō|facerētis|you all might make/do|sī vellētis, <v>facerētis</v>.|If you all wished, you would do it.|2P pl. impf. act. subj.|Conjugation::faciō
+faciō|facerent|they might make/do|sī scirent, <v>facerent</v>.|If they knew, they would do it.|3P pl. impf. act. subj.|Conjugation::faciō
+faciō|fēcerim|I may have made/done|utinam bene <v>fēcerim</v>.|Would that I may have done well.|1P sg. perf. act. subj.|Conjugation::faciō
+faciō|fēcerīs|you may have made/done|utinam rectē <v>fēcerīs</v>.|Would that you may have done rightly.|2P sg. perf. act. subj.|Conjugation::faciō
+faciō|fēcerit|he/she/it may have made/done|utinam sapienter <v>fēcerit</v>.|Would that he may have done wisely.|3P sg. perf. act. subj.|Conjugation::faciō
+faciō|fēcerīmus|we may have made/done|utinam bene <v>fēcerīmus</v>.|Would that we may have done well.|1P pl. perf. act. subj.|Conjugation::faciō
+faciō|fēcerītis|you all may have made/done|utinam rectē <v>fēcerītis</v>.|Would that you all may have done rightly.|2P pl. perf. act. subj.|Conjugation::faciō
+faciō|fēcerint|they may have made/done|utinam sapienter <v>fēcerint</v>.|Would that they may have done wisely.|3P pl. perf. act. subj.|Conjugation::faciō
+faciō|fēcissem|I would have made/done|sī potuissem, <v>fēcissem</v>.|If I had been able, I would have done it.|1P sg. plup. act. subj.|Conjugation::faciō
+faciō|fēcissēs|you would have made/done|sī voluissēs, <v>fēcissēs</v>.|If you had wished, you would have done it.|2P sg. plup. act. subj.|Conjugation::faciō
+faciō|fēcisset|he/she/it would have made/done|sī scīvisset, <v>fēcisset</v>.|If he had known, he would have done it.|3P sg. plup. act. subj.|Conjugation::faciō
+faciō|fēcissēmus|we would have made/done|sī potuissēmus, <v>fēcissēmus</v>.|If we had been able, we would have done it.|1P pl. plup. act. subj.|Conjugation::faciō
+faciō|fēcissētis|you all would have made/done|sī voluissētis, <v>fēcissētis</v>.|If you all had wished, you would have done it.|2P pl. plup. act. subj.|Conjugation::faciō
+faciō|fēcissent|they would have made/done|sī scīvissent, <v>fēcissent</v>.|If they had known, they would have done it.|3P pl. plup. act. subj.|Conjugation::faciō
+faciō|fac|make/do!|<v>fac</v> quod iūstum est!|Do what is right!|2P sg. pres. act. imp.|Conjugation::faciō
+faciō|facite|make/do! (plural)|<v>facite</v> officium vestrum!|Do your duty! (plural)|2P pl. pres. act. imp.|Conjugation::faciō
+faciō|facitō|you shall make/do|<v>facitō</v> hoc crās.|You shall do this tomorrow.|2P sg. fut. act. imp.|Conjugation::faciō
+faciō|facitōte|you all shall make/do|<v>facitōte</v> ut iubeō.|You all shall do as I order.|2P pl. fut. act. imp.|Conjugation::faciō
+faciō|facere|to make/do|bonum est <v>facere</v> rēctē.|It is good to do rightly.|__ __ pres. act. inf.|Conjugation::faciō
+faciō|fēcisse|to have made/done|dīcit sē <v>fēcisse</v> opus.|He says he has done the work.|__ __ perf. act. inf.|Conjugation::faciō
+faciō|factūrus esse|to be about to make/do|dīcit sē <v>factūrum esse</v> opus.|He says he is about to do the work.|__ __ fut. act. inf.|Conjugation::faciō
+faciō|faciēns|making/doing|videō puerum <v>facientem</v> opus.|I see the boy doing work.|__ __ pres. act. part.|Conjugation::faciō
+faciō|factūrus|about to make/do|<v>factūrus</v> opus vēnit.|He came about to do work.|__ __ fut. act. part.|Conjugation::faciō
+faciō|faciendī|of making/doing|ars <v>faciendī</v>|the art of doing|__ __ __ __ gerund.|Conjugation::faciō
+faciō|factū|to make/do (supine)|facile <v>factū</v>|easy to do|__ __ __ __ supine.|Conjugation::faciō
+
+mālō|mālō|I prefer|ego <v>mālō</v> dormīre.|I prefer to sleep.|1P sg. pres. act. ind.|Conjugation::mālō
+mālō|māvīs|you prefer|tū <v>māvīs</v> cantāre.|You prefer to sing.|2P sg. pres. act. ind.|Conjugation::mālō
+mālō|māvult|he/she/it prefers|puer <v>māvult</v> ludere.|The boy prefers to play.|3P sg. pres. act. ind.|Conjugation::mālō
+mālō|mālumus|we prefer|nōs <v>mālumus</v> ambulāre.|We prefer to walk.|1P pl. pres. act. ind.|Conjugation::mālō
+mālō|māvultis|you all prefer|vōs <v>māvultis</v> legere.|You all prefer to read.|2P pl. pres. act. ind.|Conjugation::mālō
+mālō|mālunt|they prefer|illī <v>mālunt</v> bibere.|They prefer to drink.|3P pl. pres. act. ind.|Conjugation::mālō
+mālō|mālēbam|I was preferring|ego <v>mālēbam</v> vīnum.|I was preferring wine.|1P sg. impf. act. ind.|Conjugation::mālō
+mālō|mālēbās|you were preferring|tū <v>mālēbās</v> aquam.|You were preferring water.|2P sg. impf. act. ind.|Conjugation::mālō
+mālō|mālēbat|he/she/it was preferring|illa <v>mālēbat</v> silentium.|She was preferring silence.|3P sg. impf. act. ind.|Conjugation::mālō
+mālō|mālēbāmus|we were preferring|nōs <v>mālēbāmus</v> pācem.|We were preferring peace.|1P pl. impf. act. ind.|Conjugation::mālō
+mālō|mālēbātis|you all were preferring|vōs <v>mālēbātis</v> bellum.|You all were preferring war.|2P pl. impf. act. ind.|Conjugation::mālō
+mālō|mālēbant|they were preferring|illī <v>mālēbant</v> lūcem.|They were preferring light.|3P pl. impf. act. ind.|Conjugation::mālō
+mālō|mālam|I will prefer|crās <v>mālam</v> quiētem.|Tomorrow I will prefer rest.|1P sg. fut. act. ind.|Conjugation::mālō
+mālō|mālēs|you will prefer|mox <v>mālēs</v> labōrem.|Soon you will prefer work.|2P sg. fut. act. ind.|Conjugation::mālō
+mālō|mālet|he/she/it will prefer|puer <v>mālet</v> lūdum.|The boy will prefer the game.|3P sg. fut. act. ind.|Conjugation::mālō
+mālō|mālēmus|we will prefer|nōs <v>mālēmus</v> studiōs.|We will prefer studies.|1P pl. fut. act. ind.|Conjugation::mālō
+mālō|mālētis|you all will prefer|vōs <v>mālētis</v> otium.|You all will prefer leisure.|2P pl. fut. act. ind.|Conjugation::mālō
+mālō|mālent|they will prefer|illī <v>mālent</v> labōrem.|They will prefer work.|3P pl. fut. act. ind.|Conjugation::mālō
+mālō|māluī|I preferred|herī <v>māluī</v> dormīre.|Yesterday I preferred to sleep.|1P sg. perf. act. ind.|Conjugation::mālō
+mālō|māluistī|you preferred|tū <v>māluistī</v> manēre.|You preferred to stay.|2P sg. perf. act. ind.|Conjugation::mālō
+mālō|māluit|he/she/it preferred|illa <v>māluit</v> tacēre.|She preferred to be silent.|3P sg. perf. act. ind.|Conjugation::mālō
+mālō|māluimus|we preferred|nōs <v>māluimus</v> currere.|We preferred to run.|1P pl. perf. act. ind.|Conjugation::mālō
+mālō|māluistis|you all preferred|vōs <v>māluistis</v> sedēre.|You all preferred to sit.|2P pl. perf. act. ind.|Conjugation::mālō
+mālō|māluērunt|they preferred|illī <v>māluērunt</v> cantāre.|They preferred to sing.|3P pl. perf. act. ind.|Conjugation::mālō
+mālō|mālueram|I had preferred|ego <v>mālueram</v> discēdere.|I had preferred to leave.|1P sg. plup. act. ind.|Conjugation::mālō
+mālō|māluērās|you had preferred|tū <v>māluērās</v> venīre.|You had preferred to come.|2P sg. plup. act. ind.|Conjugation::mālō
+mālō|māluerat|he/she/it had preferred|puer <v>māluerat</v> edere.|The boy had preferred to eat.|3P sg. plup. act. ind.|Conjugation::mālō
+mālō|māluērāmus|we had preferred|nōs <v>māluērāmus</v> vidēre.|We had preferred to see.|1P pl. plup. act. ind.|Conjugation::mālō
+mālō|māluērātis|you all had preferred|vōs <v>māluērātis</v> audīre.|You all had preferred to hear.|2P pl. plup. act. ind.|Conjugation::mālō
+mālō|māluerant|they had preferred|illī <v>māluerant</v> scīre.|They had preferred to know.|3P pl. plup. act. ind.|Conjugation::mālō
+mālō|mālim|I may prefer|fortasse <v>mālim</v> quiēscere.|Perhaps I may prefer to rest.|1P sg. pres. act. subj.|Conjugation::mālō
+mālō|mālīs|you may prefer|forsitan <v>mālīs</v> vigilāre.|You may perhaps prefer to stay awake.|2P sg. pres. act. subj.|Conjugation::mālō
+mālō|mālit|he/she/it may prefer|fortasse <v>mālit</v> dormīre.|Perhaps he may prefer to sleep.|3P sg. pres. act. subj.|Conjugation::mālō
+mālō|mālīmus|we may prefer|utinam <v>mālīmus</v> studēre.|Would that we may prefer to study.|1P pl. pres. act. subj.|Conjugation::mālō
+mālō|mālītis|you all may prefer|utinam <v>mālītis</v> labōrāre.|Would that you all may prefer to work.|2P pl. pres. act. subj.|Conjugation::mālō
+mālō|mālint|they may prefer|utinam <v>mālint</v> discere.|Would that they may prefer to learn.|3P pl. pres. act. subj.|Conjugation::mālō
+mālō|māllem|I would prefer|ego <v>māllem</v> abīre.|I would prefer to go away.|1P sg. impf. act. subj.|Conjugation::mālō
+mālō|māllēs|you would prefer|tū <v>māllēs</v> manēre.|You would prefer to stay.|2P sg. impf. act. subj.|Conjugation::mālō
+mālō|māllet|he/she/it would prefer|ille <v>māllet</v> bibere.|He would prefer to drink.|3P sg. impf. act. subj.|Conjugation::mālō
+mālō|māllēmus|we would prefer|nōs <v>māllēmus</v> vidēre.|We would prefer to see.|1P pl. impf. act. subj.|Conjugation::mālō
+mālō|māllētis|you all would prefer|vōs <v>māllētis</v> audīre.|You all would prefer to hear.|2P pl. impf. act. subj.|Conjugation::mālō
+mālō|māllent|they would prefer|illī <v>māllent</v> scīre.|They would prefer to know.|3P pl. impf. act. subj.|Conjugation::mālō
+mālō|mālle|to prefer|bonum est <v>mālle</v> pācem.|It is good to prefer peace.|__ __ pres. act. inf.|Conjugation::mālō
+
+ferō|ferō|I carry/bear|<v>ferō</v> onus grave.|I carry a heavy burden.|1P sg. pres. act. ind.|Conjugation::ferō
+ferō|fers|you carry/bear|<v>fers</v> spem novam.|You carry new hope.|2P sg. pres. act. ind.|Conjugation::ferō
+ferō|fert|he/she/it carries/bears|<v>fert</v> aquam ad hortum.|He carries water to the garden.|3P sg. pres. act. ind.|Conjugation::ferō
+ferō|ferimus|we carry/bear|<v>ferimus</v> arma per silvam.|We carry weapons through the forest.|1P pl. pres. act. ind.|Conjugation::ferō
+ferō|fertis|you all carry/bear|<v>fertis</v> dona ad templum.|You all carry gifts to the temple.|2P pl. pres. act. ind.|Conjugation::ferō
+ferō|ferunt|they carry/bear|<v>ferunt</v> frūmentum ex agrīs.|They carry grain from the fields.|3P pl. pres. act. ind.|Conjugation::ferō
+ferō|feror|I am carried/borne|<v>feror</v> ventīs secundīs.|I am carried by favorable winds.|1P sg. pres. pass. ind.|Conjugation::ferō
+ferō|ferris|you are carried/borne|<v>ferris</v> per undās.|You are carried through the waves.|2P sg. pres. pass. ind.|Conjugation::ferō
+ferō|fertur|he/she/it is carried/borne|<v>fertur</v> fāma per urbem.|The rumor is carried through the city.|3P sg. pres. pass. ind.|Conjugation::ferō
+ferō|ferimur|we are carried/borne|<v>ferimur</v> nāve magnā.|We are carried by a large ship.|1P pl. pres. pass. ind.|Conjugation::ferō
+ferō|feriminī|you all are carried/borne|<v>feriminī</v> currū deōrum.|You all are carried in the chariot of the gods.|2P pl. pres. pass. ind.|Conjugation::ferō
+ferō|feruntur|they are carried/borne|<v>feruntur</v> flūmine rapidō.|They are carried by the swift river.|3P pl. pres. pass. ind.|Conjugation::ferō
+ferō|ferēbam|I was carrying/bearing|<v>ferēbam</v> librum ad scholam.|I was carrying a book to school.|1P sg. impf. act. ind.|Conjugation::ferō
+ferō|ferēbās|you were carrying/bearing|<v>ferēbās</v> puerum dormientem.|You were carrying the sleeping boy.|2P sg. impf. act. ind.|Conjugation::ferō
+ferō|ferēbat|he/she/it was carrying/bearing|<v>ferēbat</v> epistulam ad amīcum.|He was carrying a letter to his friend.|3P sg. impf. act. ind.|Conjugation::ferō
+ferō|ferēbāmus|we were carrying/bearing|<v>ferēbāmus</v> cibum ad castra.|We were carrying food to the camp.|1P pl. impf. act. ind.|Conjugation::ferō
+ferō|ferēbātis|you all were carrying/bearing|<v>ferēbātis</v> aquam ad fontem.|You all were carrying water to the fountain.|2P pl. impf. act. ind.|Conjugation::ferō
+ferō|ferēbant|they were carrying/bearing|<v>ferēbant</v> sarcinās longās.|They were carrying heavy loads.|3P pl. impf. act. ind.|Conjugation::ferō
+ferō|ferēbar|I was being carried/borne|<v>ferēbar</v> per aethera.|I was being carried through the air.|1P sg. impf. pass. ind.|Conjugation::ferō
+ferō|ferēbāris|you were being carried/borne|<v>ferēbāris</v> equō velocī.|You were being carried by a swift horse.|2P sg. impf. pass. ind.|Conjugation::ferō
+ferō|ferēbātur|he/she/it was being carried/borne|<v>ferēbātur</v> lectīcā.|He was being carried in a litter.|3P sg. impf. pass. ind.|Conjugation::ferō
+ferō|ferēbāmur|we were being carried/borne|<v>ferēbāmur</v> ventō secundō.|We were being carried by a favorable wind.|1P pl. impf. pass. ind.|Conjugation::ferō
+ferō|ferēbāminī|you all were being carried/borne|<v>ferēbāminī</v> per urbem.|You all were being carried through the city.|2P pl. impf. pass. ind.|Conjugation::ferō
+ferō|ferēbantur|they were being carried/borne|<v>ferēbantur</v> flūctibus.|They were being carried by the waves.|3P pl. impf. pass. ind.|Conjugation::ferō
+ferō|feram|I will carry/bear|<v>feram</v> auxilium amīcō.|I will bring help to my friend.|1P sg. fut. act. ind.|Conjugation::ferō
+ferō|ferēs|you will carry/bear|<v>ferēs</v> nūntium ad rēgem.|You will carry the message to the king.|2P sg. fut. act. ind.|Conjugation::ferō
+ferō|feret|he/she/it will carry/bear|<v>feret</v> arma in proelium.|He will carry weapons into battle.|3P sg. fut. act. ind.|Conjugation::ferō
+ferō|ferēmus|we will carry/bear|<v>ferēmus</v> vēxillum nostrum.|We will carry our banner.|1P pl. fut. act. ind.|Conjugation::ferō
+ferō|ferētis|you all will carry/bear|<v>ferētis</v> dona templō.|You all will carry gifts to the temple.|2P pl. fut. act. ind.|Conjugation::ferō
+ferō|ferent|they will carry/bear|<v>ferent</v> victōriam domum.|They will carry victory home.|3P pl. fut. act. ind.|Conjugation::ferō
+ferō|ferar|I will be carried/borne|<v>ferar</v> ad astra.|I will be carried to the stars.|1P sg. fut. pass. ind.|Conjugation::ferō
+ferō|ferēris|you will be carried/borne|<v>ferēris</v> ad lītus.|You will be carried to the shore.|2P sg. fut. pass. ind.|Conjugation::ferō
+ferō|ferētur|he/she/it will be carried/borne|<v>ferētur</v> in caelum.|He will be carried to heaven.|3P sg. fut. pass. ind.|Conjugation::ferō
+ferō|ferēmur|we will be carried/borne|<v>ferēmur</v> nāvibus.|We will be carried by ships.|1P pl. fut. pass. ind.|Conjugation::ferō
+ferō|ferēminī|you all will be carried/borne|<v>ferēminī</v> curribus.|You all will be carried in chariots.|2P pl. fut. pass. ind.|Conjugation::ferō
+ferō|ferentur|they will be carried/borne|<v>ferentur</v> ventīs.|They will be carried by the winds.|3P pl. fut. pass. ind.|Conjugation::ferō
+ferō|tulī|I carried/bore|<v>tulī</v> pondus grave.|I carried a heavy weight.|1P sg. perf. act. ind.|Conjugation::ferō
+ferō|tulistī|you carried/bore|<v>tulistī</v> coronam victōriae.|You carried the victory crown.|2P sg. perf. act. ind.|Conjugation::ferō
+ferō|tulit|he/she/it carried/bore|<v>tulit</v> crucem suam.|He carried his cross.|3P sg. perf. act. ind.|Conjugation::ferō
+ferō|tulimus|we carried/bore|<v>tulimus</v> spolia ex hostibus.|We carried spoils from the enemies.|1P pl. perf. act. ind.|Conjugation::ferō
+ferō|tulistis|you all carried/bore|<v>tulistis</v> signa militāria.|You all carried the military standards.|2P pl. perf. act. ind.|Conjugation::ferō
+ferō|tulērunt|they carried/bore|<v>tulērunt</v> arma per urbem.|They carried weapons through the city.|3P pl. perf. act. ind.|Conjugation::ferō
+ferō|lātus sum|I was carried/borne|<v>lātus sum</v> per maria.|I was carried across the seas.|1P sg. perf. pass. ind.|Conjugation::ferō
+ferō|lātus es|you were carried/borne|<v>lātus es</v> ad victoriam.|You were carried to victory.|2P sg. perf. pass. ind.|Conjugation::ferō
+ferō|lātus est|he/she/it was carried/borne|<v>lātus est</v> in triumphō.|He was carried in triumph.|3P sg. perf. pass. ind.|Conjugation::ferō
+ferō|lātī sumus|we were carried/borne|<v>lātī sumus</v> ad portum.|We were carried to the harbor.|1P pl. perf. pass. ind.|Conjugation::ferō
+ferō|lātī estis|you all were carried/borne|<v>lātī estis</v> per urbem.|You all were carried through the city.|2P pl. perf. pass. ind.|Conjugation::ferō
+ferō|lātī sunt|they were carried/borne|<v>lātī sunt</v> ad castra.|They were carried to the camp.|3P pl. perf. pass. ind.|Conjugation::ferō
+ferō|tuleram|I had carried/borne|<v>tuleram</v> onera multa.|I had carried many burdens.|1P sg. plup. act. ind.|Conjugation::ferō
+ferō|tulerās|you had carried/borne|<v>tulerās</v> nūntium rēgī.|You had carried the message to the king.|2P sg. plup. act. ind.|Conjugation::ferō
+ferō|tulerat|he/she/it had carried/borne|<v>tulerat</v> arma per noctem.|He had carried weapons through the night.|3P sg. plup. act. ind.|Conjugation::ferō
+ferō|tulerāmus|we had carried/borne|<v>tulerāmus</v> cibum militibus.|We had carried food to the soldiers.|1P pl. plup. act. ind.|Conjugation::ferō
+ferō|tulerātis|you all had carried/borne|<v>tulerātis</v> dona deīs.|You all had carried gifts to the gods.|2P pl. plup. act. ind.|Conjugation::ferō
+ferō|tulerant|they had carried/borne|<v>tulerant</v> aquam ex fonte.|They had carried water from the spring.|3P pl. plup. act. ind.|Conjugation::ferō
+ferō|lātus eram|I had been carried/borne|<v>lātus eram</v> trans flumen.|I had been carried across the river.|1P sg. plup. pass. ind.|Conjugation::ferō
+ferō|lātus erās|you had been carried/borne|<v>lātus erās</v> per urbem.|You had been carried through the city.|2P sg. plup. pass. ind.|Conjugation::ferō
+ferō|lātus erat|he/she/it had been carried/borne|<v>lātus erat</v> ad templum.|He had been carried to the temple.|3P sg. plup. pass. ind.|Conjugation::ferō
+ferō|lātī erāmus|we had been carried/borne|<v>lātī erāmus</v> ventīs secundīs.|We had been carried by favorable winds.|1P pl. plup. pass. ind.|Conjugation::ferō
+ferō|lātī erātis|you all had been carried/borne|<v>lātī erātis</v> nāvibus.|You all had been carried by ships.|2P pl. plup. pass. ind.|Conjugation::ferō
+ferō|lātī erant|they had been carried/borne|<v>lātī erant</v> ad lītus.|They had been carried to the shore.|3P pl. plup. pass. ind.|Conjugation::ferō
+ferō|ferre|to carry/bear|Difficile est <v>ferre</v> dolōrem.|It is difficult to bear pain.|__ __ pres. act. inf.|Conjugation::ferō
+ferō|tulisse|to have carried/borne|Dīcit sē <v>tulisse</v> onus.|He says he has carried the burden.|__ __ perf. act. inf.|Conjugation::ferō
+ferō|lātūrus esse|to be about to carry/bear|Spērō mē <v>lātūrum esse</v> victōriam.|I hope I will carry victory.|__ __ fut. act. inf.|Conjugation::ferō
+ferō|ferrī|to be carried/borne|Vult <v>ferrī</v> per urbem.|He wants to be carried through the city.|__ __ pres. pass. inf.|Conjugation::ferō
+ferō|lātum esse|to have been carried/borne|Dīcit sē <v>lātum esse</v> ventō.|He says he was carried by the wind.|__ __ perf. pass. inf.|Conjugation::ferō
+ferō|lātum īrī|to be about to be carried/borne|Crēdit sē <v>lātum īrī</v> ad caelum.|He believes he will be carried to heaven.|__ __ fut. pass. inf.|Conjugation::ferō
+ferō|fer|carry!/bear!|<v>fer</v> auxilium amīcō!|Bring help to your friend!|2P sg. pres. act. imp.|Conjugation::ferō
+ferō|ferte|carry!/bear! (plural)|<v>ferte</v> arma, virī!|Carry weapons, men!|2P pl. pres. act. imp.|Conjugation::ferō
+ferō|fertō|you shall carry/bear|<v>fertō</v> hoc onus.|You shall carry this burden.|2P sg. fut. act. imp.|Conjugation::ferō
+ferō|fertōte|you all shall carry/bear|<v>fertōte</v> signa.|You all shall carry the standards.|2P pl. fut. act. imp.|Conjugation::ferō
+ferō|ferre|be carried/borne!|<v>ferre</v> fortiter!|Be carried bravely!|2P sg. pres. pass. imp.|Conjugation::ferō
+ferō|feriminī|be carried/borne! (plural)|<v>feriminī</v> ventīs!|Be carried by the winds!|2P pl. pres. pass. imp.|Conjugation::ferō
+ferō|ferēns|carrying/bearing|Vīdī eum <v>ferentem</v> gladium.|I saw him carrying a sword.|__ __ pres. act. part.|Conjugation::ferō
+ferō|lātūrus|about to carry/bear|<v>lātūrus</v> arma venit.|He comes, about to carry weapons.|__ __ fut. act. part.|Conjugation::ferō
+ferō|ferendī|of carrying/bearing|Ars <v>ferendī</v> arma.|The art of carrying weapons.|__ __ __ gerund.|Conjugation::ferō
+ferō|lātum|to carry/bear (purpose)|Venit <v>lātum</v> auxilium.|He came to bring help.|__ __ __ supine.|Conjugation::ferō
